@@ -6,3 +6,4 @@ chromadb
 sentence-transformers
 ipykernel
 jq
+langchain-google-genai
