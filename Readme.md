@@ -25,8 +25,7 @@ Clone the repository or download the files into a local directory.
 
 ```bash
 # Example if using git
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/atulkrishna-4100/Course-Buddy-AI
 ```
 
 ### 2. Setting python environments
