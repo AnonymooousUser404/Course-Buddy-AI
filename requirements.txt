@@ -1,9 +1,11 @@
 langchain
 langchain-community
 langchain-text-splitters
+langchain_core
 langchain-huggingface
 chromadb
 sentence-transformers
 ipykernel
 jq
 langchain-google-genai
+python-dotenv

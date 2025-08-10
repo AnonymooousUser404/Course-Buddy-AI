@@ -52,7 +52,7 @@
         "course_name": "Fundamental Concepts In Developmental Biology",
         "department": "Biosciences & Bioengineering",
         "instructors": [
-            "I - Sreelaja Nair"
+            "Sreelaja Nair"
         ],
         "tags": [
             "Theory"
@@ -75,7 +75,7 @@
         "course_name": "Fundamental And Practical Aspects Of Microscopy",
         "department": "Biosciences & Bioengineering",
         "instructors": [
-            "I - Roop Mallik"
+            "Roop Mallik"
         ],
         "tags": [
             "Theory"
@@ -85,7 +85,7 @@
         "description": "1. Optics for Microscopy a. Wave Nature of Light, Birefringence, Interference, Diffraction b. Optical elements: Lenses, Filters, Polarizers c. Lens Properties: Numerical Aperture, Magnification, Aberrations, Corrections d. Resolution: Rayleigh Criterion, Airy Disc, Abbe’s Principle 2. Light-Matter Interaction a. Lasers b. Fluorescence 3. Microscope Design, Function and Usage a. Image Formation in a Microscope : Kohler Illumination, Critical illumination b. Brightfield, Darkfield Microscopy c. Phase Contrast Microscopy d. Differential Interference Contrast Microscopy e. Polarization Microscopy f. Epifluorescence (Widefield) Microscopy g. Total Internal Reflection Fluorescence (TIRF) microscopy h. Confocal Microscopy i. Super Resolution Microscopy 4. Image Detection a. Camera : Image capture by CCD devices b. PMTs c. GaAsp and Hybrid Silicon detectors 5. Image Analysis a. Intensity quantification b. Micrometry c. Video Tracking Algorithms 6. Manipulating Molecules in the Microscope a. Single Molecule Techniques - Introduction b. Atomic Force Microscopes c. Optical tweezers",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/BB706/fundamental-and-practical-aspects-of-microscopy",
-        "venue": "Class Room : LT 104",
+        "venue": "LT 104",
         "duration": "FullSemester",
         "slot": "6",
         "class_time": {
@@ -242,7 +242,7 @@
         "course_name": "R D Project",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Alankar Alankar"
+            "Alankar Alankar"
         ],
         "tags": [
             "Other Project"
@@ -374,7 +374,7 @@
         "course_name": "Computational Methods In Thermal Fluid Engg",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Rajneesh Bhardwaj"
+            "Rajneesh Bhardwaj"
         ],
         "tags": [
             "Theory"
@@ -384,7 +384,7 @@
         "description": "Introduction, numerical integration, solution to algebraic equations, solution to ordinary differential equations, application to conduction, radiation and flow processes. Solution to partial differential equations, application to conduction, convection and flow problems. Difference forms, implicit and explicit methods for steady state and transient problems. Accuracy stability, speed of convergence, etc. Governing relation and boundary conditions. Solution to conduction problems. Convective problems in laminar and turbulent flows. Choice of governing equations and solution methods.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME704/computational-methods-in-thermal-fluid-engg",
-        "venue": "Class Room : LC 302",
+        "venue": "LC 302",
         "duration": "FullSemester",
         "slot": "12",
         "class_time": {
@@ -493,7 +493,7 @@
         "course_name": "Essentials Of Turbulence",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Abhilash Chandy"
+            "Abhilash Chandy"
         ],
         "tags": [
             "Theory"
@@ -804,7 +804,7 @@
         "course_name": "Mechanics Of Deformable Bodies",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Shrinidhi S. Pandurangi"
+            "Shrinidhi S. Pandurangi"
         ],
         "tags": [
             "Theory"
@@ -814,7 +814,7 @@
         "description": "1. Introduction to Vectors and Tensors: Indicial notation, Summation convention, Vectors and Cartesian Tensors, Vector and Tensor Calculus.2. Kinematics: Bodies and deformation, Rigid deformation, Strain, Motion, Material derivative.3. Balance laws: Transport Theorems, Mass Balance, Stress, Body force, Cauchy302222s Stress Principle, Energy Balance based on the First Law of Thermodynamics, Entropy and the Second Law, Clausius-Duhem Inequality, Jump conditions, Variational Principles.4. Elastic constitutive laws: Elastic response function and hyperelasticity, Principle of Frame-indifference, Material symmetry and isotropy, Constraints, Stress rates.5. Linearized theory of Elasticity: Linearization of governing equations, Uniqueness, Minimum potential energy principle, Principle of Virtual work.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME751/mechanics-of-deformable-bodies",
-        "venue": "Class Room : LT 106",
+        "venue": "LT 106",
         "duration": "FullSemester",
         "slot": "12",
         "class_time": {
@@ -875,7 +875,7 @@
         "course_name": "Numerical Modelling Of Manufacturing Processes",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Amitava De"
+            "Amitava De"
         ],
         "tags": [
             "Theory"
@@ -898,7 +898,7 @@
         "course_name": "Galerkin Methods For Fluid Dynamics",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Shivasubramanian Gopalakrishnan"
+            "Shivasubramanian Gopalakrishnan"
         ],
         "tags": [
             "Theory"
@@ -1177,7 +1177,7 @@
         "course_name": "Moving Boundary Problems In Solidification",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Shyamprasad Karagadde"
+            "Shyamprasad Karagadde"
         ],
         "tags": [
             "Theory"
@@ -1187,7 +1187,7 @@
         "description": "Introduction to evolving interfaces and necessity of modelling. Examples of casting, mould filling, seepage, sedimentation, cryobiology, electrochemistry and porous medium flowReview of multicomponent and multiphase systemsReview of transport phenomena and processesPhase change, Stefan302222s problem, Pure and binary alloys, plane-front and dendritic growth Directional solidificationAnalytical solutionsFormulation of moving and free boundary problems Front-tracking methods Front-fixing methods Fixed-domain methods Numerical solutions and simple 1-D programming examples Coupling approaches for multi-phase problems 302226 solid-liquid-gas systems, Eutectic/Peritectic solidificationRecent advances and challenges, Experimental validations, Introduction to multi-scale modelling.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME778/moving-boundary-problems-in-solidification",
-        "venue": "Class Room : LT 105",
+        "venue": "LT 105",
         "duration": "FullSemester",
         "slot": "8",
         "class_time": {
@@ -1200,7 +1200,7 @@
         "course_name": "Control Systems",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Vivek Sangwan"
+            "Vivek Sangwan"
         ],
         "tags": [
             "Theory"
@@ -1210,7 +1210,7 @@
         "description": "System Dynamics: Laplace transform, system transfer function, types of excitations, impulse response function, first-order systems, secondorder systems. Feedback control Description systems: history, physical modeling, mathematical modeling, block diagram algebra, signal flow graphs. Transient response and stability: second-order systems, control system types, steady-state error, disturbance, controllers, higher order systems, RouthHurwitz’s stability criterion. Controllers: dashpot, hydraulic controllers, pneumatic description of controllers, tuning of PID controllers. Root-locus method: physical significance, construction steps, additional information from root-locus plots, gain margin, transient characteristics, steady-state error. Nyquist’s stability criterion: Nyquist (polar) plots, theory, closed loop frequency response. Bode and Nichols plots: frequency response, basic factors, construction of Bode and Nichols plots, stability using Bode plots, stability using Nichols plots, closed loop frequency response. States-pace systems: fundamental matrix, forced response, state-space of control systems, observability & controllability, steady-state error, pole placement, observer design. Digital controls: z transform, steadystate error, PID controllers, stability zero order hold, observability & controllability, steady-state error, pole placement, observer design. System Compensation: root locus of controllers, compensators lead compensator, lag compensator, lag-lead compensator, digital compensators.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME779/control-systems",
-        "venue": "Class Room : LT 202",
+        "venue": "LT 202",
         "duration": "FullSemester",
         "slot": "3",
         "class_time": {
@@ -1240,7 +1240,7 @@
         "course_name": "Statistical Machine Learning And Data Mining",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Asim Tewari"
+            "Asim Tewari"
         ],
         "tags": [
             "Theory"
@@ -1250,7 +1250,7 @@
         "description": "COURSE CONTENTSIntroduction / Foundation(4 lectures - 6 hours)- Essentials of Statistics- What is Data Mining- Data Mining Stages- Methods overview- Applications overviewData Mining Methods(10 Lectures - 15 hours)- Clustering- Classification- Association- Sequence Analysis- Regressions- Decision Trees- Neural Networks- SVMEngineering and Manufacturing Applications(6 lectures - 9 hours)- Data Mining for Product Design- Applications in Planning and Scheduling- Data Mining for Process and Quality Control- Application of Data Mining in Maintenance- Applications in Shop Floor Control and Layout- Introduction to Cyber Physical SystemsHandling Very Large Data Sets (Big Data) andtheir Analytics(5 lectures - 7.5 hours)- Definition of Big Data- Structured / semi-structured / un-structured data- Techniques for storing and processing Big Data- Tools for storing and processing Big Data- The Big Data Ecosystem- Sources of Big Data in the ManufacturingEnterprise- Applications of Big Data Analytics in Engineeringand Manufacturing",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME781/statistical-machine-learning-and-data-mining",
-        "venue": "Class Room : LA 001",
+        "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "15",
         "class_time": {
@@ -1264,7 +1264,7 @@
         "department": "Mechanical Engineering",
         "instructors": [
             "A - Shrinidhi S. Pandurangi",
-            "I - Amit Kumar Singh"
+            "Amit Kumar Singh"
         ],
         "tags": [
             "Theory"
@@ -1320,7 +1320,7 @@
         "course_name": "Machining Processes",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Rakesh Ganpat Mote"
+            "Rakesh Ganpat Mote"
         ],
         "tags": [
             "Theory"
@@ -1330,7 +1330,7 @@
         "description": "Analysis of material removal in conventional machining – shear angle solutions, stress and strain in primary deformation zone; friction, temperature and wear in the secondary and tertiary deformation zones in machining; machinabilty, mechanistic modeling as applied to turning, drilling, milling and grinding processes, machining of advanced materials. Analysis of material removal in electro-spark & electro- chemical machining processes. Analysis of ultrasonic, laser and electron-beam machining.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME785/machining-processes",
-        "venue": "Class Room : LT 002",
+        "venue": "LT 002",
         "duration": "FirstHalf",
         "slot": "8",
         "class_time": {
@@ -1343,7 +1343,7 @@
         "course_name": "Welding Processes",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Amber Shrivastava"
+            "Amber Shrivastava"
         ],
         "tags": [
             "Theory"
@@ -1366,7 +1366,7 @@
         "course_name": "Deformation Processes",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Sushil Kumar Mishra"
+            "Sushil Kumar Mishra"
         ],
         "tags": [
             "Theory"
@@ -1389,7 +1389,7 @@
         "course_name": "Liquid Material Processing",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Prashant Prabhakar Date"
+            "Prashant Prabhakar Date"
         ],
         "tags": [
             "Theory"
@@ -1625,7 +1625,7 @@
             "A - Alankar Alankar",
             "A - Amber Shrivastava",
             "A - Deepak Marla",
-            "I - Sushil Kumar Mishra"
+            "Sushil Kumar Mishra"
         ],
         "tags": [
             "Non-credit"
@@ -1635,7 +1635,7 @@
         "description": "Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWorkplace communication: Sensitivity towards genderand diversity; Email communication and netiquettes.Ethics in academic communication: Intellectual Property,copyrights and plagiarism; Authorship; Data ethics; Biasesand balanced criticism of literature;Suggested additional topics relevant to disciplines: Datarepresentation, Group discussion and interviews; accessiblescientific writing, report writing using LaTeX, Proofreading, etc",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/ME899/communication-skills",
-        "venue": "Class Room : LC 201",
+        "venue": "LC 201",
         "duration": "FullSemester",
         "slot": "14",
         "class_time": {
@@ -1648,7 +1648,7 @@
         "course_name": "Seminar",
         "department": "Mechanical Engineering",
         "instructors": [
-            "I - Atul Sharma"
+            "Atul Sharma"
         ],
         "tags": [
             "Seminar"
@@ -1685,7 +1685,7 @@
         "department": "Shailesh J. Mehta School of Management",
         "instructors": [
             "A - Dinesh Sharma",
-            "I - Arti Deepak Kalro"
+            "Arti Deepak Kalro"
         ],
         "tags": [
             "Theory"
@@ -1708,7 +1708,7 @@
         "course_name": "Human Resource Management",
         "department": "Shailesh J. Mehta School of Management",
         "instructors": [
-            "I - Soumya G. Rajan"
+            "Soumya G. Rajan"
         ],
         "tags": [
             "Theory"
@@ -1732,7 +1732,7 @@
         "department": "Shailesh J. Mehta School of Management",
         "instructors": [
             "A - Sapar Narayan Rao",
-            "I - Varadraj Bhalchandra Bapat"
+            "Varadraj Bhalchandra Bapat"
         ],
         "tags": [
             "Theory"
@@ -1851,7 +1851,7 @@
         "course_name": "I Stage Project",
         "department": "Biosciences & Bioengineering",
         "instructors": [
-            "I - Sandeep Kumar Kalva"
+            "Sandeep Kumar Kalva"
         ],
         "tags": [
             "Project Stage 1"
@@ -1953,7 +1953,7 @@
         "instructors": [
             "A - Sandip Laxman Kaledhonkar",
             "A - Sanjeeva Srivastava",
-            "I - Ashutosh Kumar"
+            "Ashutosh Kumar"
         ],
         "tags": [
             "Theory"
@@ -2015,7 +2015,7 @@
             "A - Sanjeeva Srivastava",
             "A - Shamik\n                    Rabindranath Sen",
             "A - Sreelaja Nair",
-            "I - Ambarish Kunwar"
+            "Ambarish Kunwar"
         ],
         "tags": [
             "Non-credit"
@@ -2025,7 +2025,7 @@
         "description": "Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWorkplace communication: Sensitivity towards genderand diversity; Email communication and netiquettes.Ethics in academic communication: Intellectual Property,copyrights and plagiarism; Authorship; Data ethics; Biasesand balanced criticism of literature;Suggested additional topics relevant to disciplines: Datarepresentation, Group discussion and interviews; accessiblescientific writing, report writing using LaTeX, Proofreading, etc.",
         "is_running": true,
         "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/BB899/communication-skills",
-        "venue": "Class Room : LC 002",
+        "venue": "LC 002",
         "duration": "FullSemester",
         "slot": "4",
         "class_time": {

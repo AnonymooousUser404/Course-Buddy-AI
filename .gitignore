@@ -1,3 +1,4 @@
+.env
 myenv
 my_chroma_db
 course_vector_database
