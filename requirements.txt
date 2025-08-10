@@ -9,3 +9,5 @@ ipykernel
 jq
 langchain-google-genai
 python-dotenv
+fuzzywuzzy
+python-Levenshtein
