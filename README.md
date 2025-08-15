@@ -38,4 +38,3 @@ python -m venv myenv
 ```bash
 pip install -r requirements.txt
 ```
-
