@@ -13,7 +13,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE103": {
         "course_code": "AE103",
@@ -37,7 +38,8 @@
             "Mon": "11:35:00-12:30:00",
             "Thu": "09:30:00-10:25:00",
             "Tue": "08:30:00-09:25:00"
-        }
+        },
+        "grades": ""
     },
     "AE152": {
         "course_code": "AE152",
@@ -60,7 +62,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: BB:4, BC:1, CC:2, CD:1, FF:2, Total:10 \n Year: 2022, Semester: 1, Instructor: I - Pant R.K., Grades: AB:1, BB:7, BC:5, CC:2, FR:2, Total:17 \n Year: 2022, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:10, AB:22, BB:23, BC:10, CC:7, CD:3, DD:1, FF:4, Total:80 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AB:2, BB:1, BC:1, CD:1, Total:5 \n Year: 2021, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:10, AB:22, BB:15, BC:10, CC:7, CD:6, DD:2, FR:3, II:4, Total:79 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AB:1, BB:2, DD:1, FR:1, Total:5 \n Year: 2020, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:20, AB:25, BB:20, BC:11, CC:9, CD:6, DD:1, FF:3, II:1, Total:96 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: BB:1, BC:2, CC:1, DD:3, FR:3, Total:10 \n Year: 2019, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:32, AB:21, BB:13, BC:3, CC:1, DD:1, PP:6, Total:77"
     },
     "AE153": {
         "course_code": "AE153",
@@ -83,7 +86,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: AA:2, AB:2, BB:7, BC:3, CC:5, CD:1, Total:20 \n Year: 2022, Semester: 1, Instructor: I - Pant R.K., Grades: AA:3, AB:5, BB:6, BC:4, Total:18 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AA:1, AB:5, BC:3, CC:6, DD:1, FR:1, Total:17 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AA:1, AB:2, BB:1, Total:4 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AB:5, BB:6, BC:6, Total:17 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: BB:2, BC:4, CC:4, CD:5, DD:4, Total:19"
     },
     "AE207": {
         "course_code": "AE207",
@@ -99,7 +103,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE209": {
         "course_code": "AE209",
@@ -115,7 +120,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE214": {
         "course_code": "AE214",
@@ -131,7 +137,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE215": {
         "course_code": "AE215",
@@ -147,7 +154,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE216": {
         "course_code": "AE216",
@@ -163,7 +171,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE219": {
         "course_code": "AE219",
@@ -183,7 +192,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE666": {
         "course_code": "AE666",
@@ -199,7 +209,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE667": {
         "course_code": "AE667",
@@ -223,7 +234,8 @@
             "Mon": "10:35:00-11:30:00",
             "Thu": "08:30:00-09:25:00",
             "Tue": "11:35:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "AE668": {
         "course_code": "AE668",
@@ -239,7 +251,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE669": {
         "course_code": "AE669",
@@ -255,7 +268,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE670": {
         "course_code": "AE670",
@@ -271,7 +285,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Hrishikesh Gadgil, Grades: AA:2, AB:2, BB:2, BC:2, CC:1, CD:2, DD:3, FR:5, Total:19 \n Year: 2022, Semester: 2, Instructor: I - Hrishikesh Gadgil, Grades: AB:1, Total:1"
     },
     "AE673": {
         "course_code": "AE673",
@@ -287,7 +302,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 1, Instructor: I - P J Guruprasad, Grades: AA:5, AB:5, BB:1, BC:5, CD:1, DD:1, FF:1, II:1, Total:20 \n Year: 2021, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:4, AB:9, BB:3, BC:2, CC:1, CD:1, DD:2, Total:22 \n Year: 2020, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:3, AB:6, AU:1, BB:3, BC:3, CC:2, CD:2, DD:1, FR:3, Total:24 \n Year: 2019, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:2, AB:6, AU:9, BB:8, BC:4, FR:1, Total:30"
     },
     "AE676": {
         "course_code": "AE676",
@@ -303,7 +319,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE678": {
         "course_code": "AE678",
@@ -319,7 +336,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:1, AB:2, BB:1, BC:2, CC:5, CD:1, DD:3, FF:2, FR:1, Total:18 \n Year: 2021, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:3, AB:2, BB:4, BC:2, CC:3, FR:3, Total:17 \n Year: 2020, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:2, AB:3, BB:2, BC:4, CC:2, DD:1, II:1, Total:15 \n Year: 2019, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AB:3, BB:12, BC:1, CC:1, PP:1, Total:18"
     },
     "AE679": {
         "course_code": "AE679",
@@ -335,7 +353,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE681": {
         "course_code": "AE681",
@@ -358,7 +377,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CLS802": {
         "course_code": "CLS802",
@@ -374,7 +394,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:10, AB:8, BB:2, BC:2, Total:22 \n Year: 2021, Semester: 1, Instructor: I - Partha S. Goswami, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:11, AB:12, BB:5, FR:1, II:3, Total:32 \n Year: 2020, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:8, AB:6, II:6, Total:20 \n Year: 2019, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:10, AB:3, Total:13"
     },
     "CM0793": {
         "course_code": "CM0793",
@@ -390,7 +411,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM402": {
         "course_code": "CM402",
@@ -406,7 +428,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM501": {
         "course_code": "CM501",
@@ -422,7 +445,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM503": {
         "course_code": "CM503",
@@ -438,7 +462,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Angshuman Modak, Grades: AA:1, AB:1, BB:1, BC:2, II:1, Total:6"
     },
     "CM504": {
         "course_code": "CM504",
@@ -454,7 +479,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Vishal Dixit, Grades: AA:1, AB:1, AU:3, BB:1, II:1, Total:7"
     },
     "CM505": {
         "course_code": "CM505",
@@ -470,7 +496,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM507": {
         "course_code": "CM507",
@@ -486,7 +513,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM509": {
         "course_code": "CM509",
@@ -502,7 +530,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM602": {
         "course_code": "CM602",
@@ -518,7 +547,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM605": {
         "course_code": "CM605",
@@ -534,7 +564,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM606": {
         "course_code": "CM606",
@@ -550,7 +581,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM608": {
         "course_code": "CM608",
@@ -566,7 +598,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM611": {
         "course_code": "CM611",
@@ -582,7 +615,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Raghu Murtugudde, Grades: AU:1, FF:3, Total:4 \n Year: 2021, Semester: 2, Instructor: I - Raghu Murtugudde, Grades: AU:8, BB:1, CC:1, Total:10"
     },
     "CM612": {
         "course_code": "CM612",
@@ -598,7 +632,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM613": {
         "course_code": "CM613",
@@ -614,7 +649,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - S. Ravichandran, Grades: AB:1, BB:3, Total:4"
     },
     "CM615": {
         "course_code": "CM615",
@@ -630,7 +666,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM616": {
         "course_code": "CM616",
@@ -646,7 +683,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM617": {
         "course_code": "CM617",
@@ -662,7 +700,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM618": {
         "course_code": "CM618",
@@ -678,7 +717,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM619": {
         "course_code": "CM619",
@@ -694,7 +734,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM621": {
         "course_code": "CM621",
@@ -710,7 +751,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM801": {
         "course_code": "CM801",
@@ -726,7 +768,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:8, AB:9, AU:1, BB:7, BC:1, FF:1, FR:1, Total:28 \n Year: 2021, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:5, AB:5, AU:2, BB:9, BC:3, CC:1, CD:2, DD:3, FR:4, Total:34 \n Year: 2019, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:10, AB:13, BB:2, BC:1, CC:1, FF:1, Total:28"
     },
     "CM802": {
         "course_code": "CM802",
@@ -742,7 +785,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM803": {
         "course_code": "CM803",
@@ -758,7 +802,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CM899": {
         "course_code": "CM899",
@@ -774,7 +819,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CMS801": {
         "course_code": "CMS801",
@@ -790,7 +836,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Vishal Dixit, Grades: AA:2, AB:3, BB:2, Total:7 \n Year: 2022, Semester: 1, Instructor: I - Vishal Dixit, Grades: AA:1, AB:2, FF:2, Total:5 \n Year: 2022, Semester: 2, Instructor: I - Vishal Dixit, Grades: AB:2, II:1, Total:3 \n Year: 2021, Semester: 1, Instructor: I - Subimal Ghosh, Grades: AA:3, AB:3, BB:1, II:1, Total:8 \n Year: 2021, Semester: 2, Instructor: I - Subimal Ghosh, Grades: AA:2, AB:1, Total:3 \n Year: 2020, Semester: 1, Instructor: I - Parthasarathy D., Grades: AA:1, AB:1, Total:2 \n Year: 2020, Semester: 2, Instructor: I - Parthasarathy D., Grades: AA:5, AB:6, BB:1, FR:1, II:2, Total:15 \n Year: 2019, Semester: 1, Grades: AA:1, AB:5, BB:3, BC:1, Total:10 \n Year: 2019, Semester: 2, Grades: AA:2, AB:2, CC:1, Total:5"
     },
     "CMS802": {
         "course_code": "CMS802",
@@ -806,7 +853,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2021, Semester: 2, Instructor: I - Subimal Ghosh, Grades: AA:1, AB:1, Total:2"
     },
     "CS0793": {
         "course_code": "CS0793",
@@ -822,7 +870,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS101": {
         "course_code": "CS101",
@@ -845,7 +894,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:42, AB:57, AP:11, BB:69, BC:70, CC:48, CD:18, DD:25, FF:15, FR:6, Total:361 \n Year: 2023, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:23, AB:49, AP:3, BB:74, BC:71, CC:69, CD:29, DD:24, FF:17, FR:17, Total:376 \n Year: 2022, Semester: 1, Instructor: I - Ajit V. Rajwade, Grades: AA:83, AB:61, AP:12, BB:59, BC:42, CC:31, CD:28, DD:41, FR:19, Total:376 \n Year: 2022, Semester: 1, Instructor: I - Ajit V. Rajwade, Grades: AA:31, AB:45, AP:3, BB:33, BC:45, CC:50, CD:47, DD:107, FR:11, Total:372 \n Year: 2022, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:58, AB:45, AP:6, BB:59, BC:59, CC:47, CD:23, DD:39, FR:12, II:1, Total:349 \n Year: 2022, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:60, AB:67, AP:6, BB:57, BC:42, CC:35, CD:26, DD:36, FR:9, Total:338 \n Year: 2021, Semester: 1, Instructor: I - Parag Chaudhuri, Grades: AA:52, AB:62, BB:87, BC:90, CC:48, CD:22, DD:27, FR:13, II:1, Total:402 \n Year: 2021, Semester: 1, Instructor: I - Parag Chaudhuri, Grades: AA:23, AB:38, BB:44, BC:98, CC:77, CD:48, DD:32, FR:27, Total:387 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:98, AB:83, BB:59, BC:46, CC:31, CD:23, DD:11, FR:8, Total:359 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:28, AB:26, BB:40, BC:59, CC:43, CD:60, DD:50, FR:18, Total:324 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:38, AB:49, BB:55, BC:60, CC:40, CD:51, DD:27, FR:16, Total:336 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:21, AB:27, BB:44, BC:58, CC:52, CD:55, DD:56, FR:22, Total:335 \n Year: 2020, Semester: 2, Instructor: I - Biswas S., Grades: AA:2, AB:9, AP:1, BB:26, BC:20, CC:17, CD:11, DD:7, FR:5, II:7, Total:105 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: DD:1, Total:1 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: , Total:1 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: AA:37, AB:51, AP:1, BB:66, BC:48, CC:45, CD:46, DD:43, FR:23, Total:360 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: AA:7, AB:26, BB:35, BC:46, CC:46, CD:46, DD:46, FR:28, Total:280 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: BB:1, CD:1, PP:1, Total:3 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: AA:22, AB:34, BB:47, BC:45, CC:27, CD:13, DD:12, FF:6, PP:79, Total:285 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: AA:10, AB:35, BB:34, BC:44, CC:18, CD:13, DD:9, FF:5, PP:110, Total:278"
     },
     "CS103": {
         "course_code": "CS103",
@@ -861,7 +911,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS104": {
         "course_code": "CS104",
@@ -877,7 +928,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Kameswari Chebrolu, Grades: AA:29, AB:24, BB:40, BC:30, CC:17, CD:7, DD:11, FR:15, Total:173"
     },
     "CS105": {
         "course_code": "CS105",
@@ -900,7 +952,8 @@
         "class_time": {
             "Fri": "14:00:00-15:25:00",
             "Tue": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS108": {
         "course_code": "CS108",
@@ -916,7 +969,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS152": {
         "course_code": "CS152",
@@ -932,7 +986,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS154": {
         "course_code": "CS154",
@@ -948,7 +1003,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS207": {
         "course_code": "CS207",
@@ -964,7 +1020,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:6, AB:21, AP:3, BB:31, BC:41, CC:40, CD:33, DD:4, FF:11, II:2, Total:192 \n Year: 2022, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:13, AB:19, AP:3, BB:28, BC:36, CC:36, CD:30, DD:17, FF:8, II:5, Total:195 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: BC:1, DD:1, FR:1, Total:3 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:10, AB:16, BB:22, BC:22, CC:27, CD:19, DD:7, FR:3, Total:126 \n Year: 2021, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:22, AB:24, AP:1, AU:1, BB:56, BC:28, CC:27, CD:14, DD:6, FR:3, Total:182 \n Year: 2020, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:21, AB:39, AP:3, BB:45, BC:19, CC:10, CD:8, DD:9, FF:1, FR:3, Total:158 \n Year: 2020, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: BB:1, FR:1, Total:2 \n Year: 2019, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:12, AB:19, AP:2, BB:37, BC:19, CC:18, CD:12, DD:6, FR:9, Total:134"
     },
     "CS208": {
         "course_code": "CS208",
@@ -980,7 +1037,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS210": {
         "course_code": "CS210",
@@ -996,7 +1054,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS213": {
         "course_code": "CS213",
@@ -1019,7 +1078,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:19, AB:35, AP:2, BB:44, BC:33, CC:23, CD:18, DD:14, FR:9, Total:197 \n Year: 2022, Semester: 1, Instructor: I - Sohoni Milind, Grades: AA:10, AB:30, AP:1, BB:37, BC:56, CC:30, CD:17, DD:9, FF:3, FR:8, Total:201 \n Year: 2022, Semester: 1, Instructor: I - Sohoni Milind, Grades: CC:1, Total:1 \n Year: 2022, Semester: 2, Instructor: I - Sohoni Milind, Grades: BB:1, CC:1, CD:1, DD:1, FR:5, Total:9 \n Year: 2022, Semester: 2, Instructor: I - Sohoni Milind, Grades: AA:2, AB:13, AP:1, BB:41, BC:21, CC:25, CD:9, DD:17, FF:3, FR:16, II:3, Total:151 \n Year: 2021, Semester: 1, Instructor: I - Sohoni Milind, Grades: AA:24, AB:27, BB:21, BC:65, CC:29, CD:11, DD:1, FR:3, Total:181 \n Year: 2021, Semester: 2, Instructor: I - Sohoni Milind, Grades: AU:3, FR:1, Total:4 \n Year: 2021, Semester: 2, Instructor: I - Sohoni Milind, Grades: AB:8, BB:6, BC:28, CC:38, CD:37, DD:7, FR:11, II:2, Total:137 \n Year: 2020, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:6, AB:32, AP:1, BB:23, BC:21, CC:25, CD:20, DD:11, FF:1, FR:6, Total:146 \n Year: 2020, Semester: 2, Instructor: I - Sharat Chandran, Grades: AA:2, AB:6, BB:13, BC:2, CC:13, CD:3, DD:7, FR:10, Total:56 \n Year: 2020, Semester: 2, Instructor: I - Sharat Chandran, Grades: AA:12, AB:10, BB:30, BC:2, CC:5, CD:2, DD:1, FR:1, Total:63 \n Year: 2019, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:10, AB:6, BB:21, BC:34, CC:34, CD:23, DD:5, FR:5, II:1, Total:139 \n Year: 2019, Semester: 2, Instructor: I - Biswas S., Grades: BC:1, DD:1, FF:1, FR:1, PP:1, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Biswas S., Grades: AA:7, AB:10, BB:11, BC:9, CC:6, FF:1, PP:36, Total:80"
     },
     "CS215": {
         "course_code": "CS215",
@@ -1043,7 +1103,8 @@
             "Mon": "10:35:00-11:30:00",
             "Thu": "08:30:00-09:25:00",
             "Tue": "11:35:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS217": {
         "course_code": "CS217",
@@ -1059,7 +1120,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS218": {
         "course_code": "CS218",
@@ -1075,7 +1137,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Ranade A., Grades: BB:1, FF:1, FR:1, Total:3 \n Year: 2023, Semester: 1, Instructor: I - Ranade A., Grades: AA:2, AB:8, BB:18, BC:14, CC:18, CD:14, DD:17, FF:1, FR:1, II:1, Total:94 \n Year: 2022, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:12, AB:17, BB:37, BC:9, CC:1, DD:1, Total:77 \n Year: 2022, Semester: 2, Instructor: I - Rohit Gurjar, Grades: AA:38, AB:41, BB:58, BC:39, CC:9, CD:5, FR:3, Total:193 \n Year: 2021, Semester: 1, Instructor: I - Ranade A., Grades: AA:4, AB:10, BB:10, BC:12, CC:10, CD:4, DD:1, FF:2, FR:3, Total:56 \n Year: 2021, Semester: 2, Instructor: I - Mrinal Kumar, Grades: AA:26, AB:26, BB:43, BC:51, CC:15, CD:12, DD:9, FR:4, Total:186 \n Year: 2020, Semester: 1, Instructor: I - Ranade A., Grades: DD:1, Total:1 \n Year: 2020, Semester: 1, Instructor: I - Ranade A., Grades: AA:12, AB:16, BB:11, BC:14, CC:12, CD:13, DD:1, Total:79 \n Year: 2020, Semester: 2, Instructor: I - Nutan Limaye, Grades: AA:56, AB:18, AP:3, BB:23, BC:15, CC:6, CD:11, DD:3, II:8, Total:143 \n Year: 2019, Semester: 2, Instructor: I - Nutan Limaye, Grades: AA:11, AB:16, BB:3, BC:2, CC:3, CD:2, DD:3, FF:8, PP:93, Total:141"
     },
     "CS219": {
         "course_code": "CS219",
@@ -1098,7 +1161,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS224": {
         "course_code": "CS224",
@@ -1114,7 +1178,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS226": {
         "course_code": "CS226",
@@ -1130,7 +1195,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS228": {
         "course_code": "CS228",
@@ -1154,7 +1220,8 @@
             "Mon": "11:35:00-12:30:00",
             "Thu": "09:30:00-10:25:00",
             "Tue": "08:30:00-09:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS230": {
         "course_code": "CS230",
@@ -1178,7 +1245,8 @@
             "Mon": "09:30:00-10:25:00",
             "Thu": "11:35:00-12:30:00",
             "Tue": "10:35:00-11:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS231": {
         "course_code": "CS231",
@@ -1200,7 +1268,8 @@
         "slot": "L",
         "class_time": {
             "Tue": "14:00:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS232": {
         "course_code": "CS232",
@@ -1216,7 +1285,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS236": {
         "course_code": "CS236",
@@ -1232,7 +1302,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS240": {
         "course_code": "CS240",
@@ -1248,7 +1319,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS251": {
         "course_code": "CS251",
@@ -1264,7 +1336,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS252": {
         "course_code": "CS252",
@@ -1280,7 +1353,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS254": {
         "course_code": "CS254",
@@ -1296,7 +1370,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS288": {
         "course_code": "CS288",
@@ -1312,7 +1387,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS293": {
         "course_code": "CS293",
@@ -1334,7 +1410,8 @@
         "slot": "L",
         "class_time": {
             "Fri": "14:00:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS296": {
         "course_code": "CS296",
@@ -1350,7 +1427,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS302": {
         "course_code": "CS302",
@@ -1366,7 +1444,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:20, AB:26, BB:41, BC:23, CC:35, CD:12, DD:8, FR:12, Total:177 \n Year: 2021, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:14, AB:31, BB:18, BC:26, CC:17, CD:14, DD:18, FR:1, II:4, Total:143 \n Year: 2020, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:30, AB:18, BB:17, BC:13, CC:11, CD:8, DD:13, FF:2, FR:1, II:16, Total:129 \n Year: 2019, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:21, AB:15, BB:8, BC:17, CC:2, CD:1, DD:4, FF:8, PP:56, Total:132"
     },
     "CS305": {
         "course_code": "CS305",
@@ -1382,7 +1461,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS306": {
         "course_code": "CS306",
@@ -1398,7 +1478,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS308": {
         "course_code": "CS308",
@@ -1414,7 +1495,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS310": {
         "course_code": "CS310",
@@ -1437,7 +1519,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:20, AB:32, AP:4, BB:68, BC:37, CC:23, CD:4, DD:5, FR:3, Total:196 \n Year: 2022, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:18, AB:33, AP:2, BB:30, BC:47, CC:27, CD:12, DD:5, II:4, Total:178 \n Year: 2021, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:2, AB:8, BB:18, BC:12, CD:3, Total:43 \n Year: 2021, Semester: 2, Instructor: I - Sivakumar G., Grades: AA:11, AB:26, BB:29, BC:25, CC:23, CD:16, DD:8, II:5, Total:143 \n Year: 2020, Semester: 2, Instructor: I - S. Akshay, Grades: AA:27, AB:30, BB:23, BC:22, CC:22, CD:7, DD:3, Total:134 \n Year: 2019, Semester: 2, Instructor: I - S. Akshay, Grades: AA:11, AB:15, BB:15, BC:15, CC:8, CD:1, DD:2, FF:4, PP:59, Total:130"
     },
     "CS316": {
         "course_code": "CS316",
@@ -1453,7 +1536,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:78, AB:26, AP:4, BB:4, BC:15, CC:3, CD:7, DD:18, FR:29, Total:184 \n Year: 2021, Semester: 1, Grades: CD:1, Total:1 \n Year: 2021, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:76, AB:10, BB:10, BC:10, CC:8, CD:6, DD:10, FR:16, II:2, Total:148 \n Year: 2020, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:80, AB:10, BB:10, BC:6, CC:10, CD:4, II:6, Total:126 \n Year: 2019, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:12, AB:48, BB:11, BC:5, CC:4, CD:3, DD:1, FF:1, PP:44, Total:129"
     },
     "CS317": {
         "course_code": "CS317",
@@ -1476,7 +1560,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": "Year: 2022, Semester: 2, Instructor: I - B. L. Menezes, Grades: AA:32, AB:20, BB:63, BC:23, CC:17, CD:8, DD:6, FF:5, FR:5, Total:179 \n Year: 2021, Semester: 2, Instructor: A - Sudarshan S. I - Bellur Umesh, Grades: AA:27, AB:23, BB:27, BC:31, CC:22, CD:6, DD:8, FR:7, Total:151 \n Year: 2020, Semester: 2, Instructor: I - Sudarshan S., Grades: AA:32, AB:27, BB:20, BC:9, CC:14, CD:5, DD:14, FF:3, II:8, Total:132 \n Year: 2019, Semester: 2, Instructor: A - Sudarshan S. I - Sriram Srinivasan, Grades: AA:21, AB:24, AP:2, AU:1, BB:13, BC:10, CC:12, CD:3, DD:2, FF:4, PP:38, Total:130"
     },
     "CS3235": {
         "course_code": "CS3235",
@@ -1492,7 +1577,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS333": {
         "course_code": "CS333",
@@ -1508,7 +1594,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS335": {
         "course_code": "CS335",
@@ -1524,7 +1611,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS337": {
         "course_code": "CS337",
@@ -1540,7 +1628,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS339": {
         "course_code": "CS339",
@@ -1564,7 +1653,8 @@
             "Mon": "09:30:00-10:25:00",
             "Thu": "11:35:00-12:30:00",
             "Tue": "10:35:00-11:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS341": {
         "course_code": "CS341",
@@ -1580,7 +1670,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS344": {
         "course_code": "CS344",
@@ -1596,7 +1687,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS347": {
         "course_code": "CS347",
@@ -1619,7 +1711,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS348": {
         "course_code": "CS348",
@@ -1643,7 +1736,8 @@
             "Mon": "11:35:00-12:30:00",
             "Thu": "09:30:00-10:25:00",
             "Tue": "08:30:00-09:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS349": {
         "course_code": "CS349",
@@ -1659,7 +1753,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS351": {
         "course_code": "CS351",
@@ -1675,7 +1770,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS355": {
         "course_code": "CS355",
@@ -1697,7 +1793,8 @@
         "slot": "L",
         "class_time": {
             "Mon": "14:00:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS377": {
         "course_code": "CS377",
@@ -1713,7 +1810,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS378": {
         "course_code": "CS378",
@@ -1735,7 +1833,8 @@
         "slot": "L",
         "class_time": {
             "Thu": "14:00:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS386": {
         "course_code": "CS386",
@@ -1751,7 +1850,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS387": {
         "course_code": "CS387",
@@ -1767,7 +1867,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Sudarshan S., Grades: AA:55, AB:58, BB:32, BC:12, CC:13, CD:3, DD:3, FR:4, Total:180 \n Year: 2021, Semester: 1, Grades: DD:1, Total:1 \n Year: 2021, Semester: 2, Instructor: A - Sudarshan S. I - Bellur Umesh, Grades: AA:74, AB:23, BB:17, BC:13, CC:3, CD:5, DD:2, FR:7, Total:144 \n Year: 2020, Semester: 1, Grades: FR:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Bellur Umesh, Grades: AA:89, AB:15, AU:1, BB:14, BC:2, CC:5, CD:2, FR:5, Total:133 \n Year: 2019, Semester: 2, Instructor: A - Sudarshan S. I - Sriram Srinivasan, Grades: AA:68, AB:32, AU:1, BB:6, CC:2, CD:1, DD:2, FF:4, PP:10, Total:126"
     },
     "CS396": {
         "course_code": "CS396",
@@ -1788,7 +1889,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:3, AB:3, Total:6 \n Year: 2022, Semester: 1, Grades: AA:3, BC:1, CC:1, Total:5 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:5, Total:5 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:3, AB:1, Total:4 \n Year: 2020, Semester: 1, Grades: AA:3, Total:3 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:4, FR:2, Total:6 \n Year: 2019, Semester: 2, Grades: AA:7, AB:1, Total:8"
     },
     "CS405": {
         "course_code": "CS405",
@@ -1811,7 +1913,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS406": {
         "course_code": "CS406",
@@ -1827,7 +1930,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:3, AB:8, BB:16, BC:8, CC:4, CD:2, FR:3, Total:44 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:3, AB:13, AU:1, BB:7, DD:1, FR:4, II:2, Total:31"
     },
     "CS408": {
         "course_code": "CS408",
@@ -1843,7 +1947,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS409": {
         "course_code": "CS409",
@@ -1866,7 +1971,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS416": {
         "course_code": "CS416",
@@ -1882,7 +1988,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS419": {
         "course_code": "CS419",
@@ -1905,7 +2012,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Abir De, Grades: AA:12, AB:13, BB:45, BC:11, CC:6, CD:4, DD:2, Total:93 \n Year: 2021, Semester: 2, Instructor: I - Abir De, Grades: AA:8, AB:24, BB:36, BC:27, CC:29, CD:4, DD:4, FR:3, Total:135 \n Year: 2020, Semester: 2, Instructor: I - Abir De, Grades: AA:22, AB:27, BB:19, BC:4, II:4, Total:76 \n Year: 2019, Semester: 2, Instructor: I - Preethi Jyothi, Grades: BB:1, BC:1, CD:3, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:16, AB:21, BB:6, BC:23, CC:6, CD:2, PP:22, Total:96"
     },
     "CS433": {
         "course_code": "CS433",
@@ -1921,7 +2029,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:1, AB:1, BB:3, BC:1, CC:1, DD:1, Total:8 \n Year: 2021, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:2, BB:4, DD:1, Total:7 \n Year: 2020, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:3, AB:4, AU:1, BB:3, BC:1, Total:12"
     },
     "CS449": {
         "course_code": "CS449",
@@ -1937,7 +2046,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS467": {
         "course_code": "CS467",
@@ -1953,7 +2063,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS475": {
         "course_code": "CS475",
@@ -1969,7 +2080,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS485": {
         "course_code": "CS485",
@@ -1990,7 +2102,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:14, AB:4, BB:2, Total:20 \n Year: 2022, Semester: 1, Grades: AA:8, AB:2, BB:1, BC:1, Total:12 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:7, AB:5, BB:1, BC:1, CC:1, II:2, Total:17 \n Year: 2021, Semester: 1, Grades: AA:6, AB:1, Total:7 \n Year: 2021, Semester: 2, Grades: AA:19, AB:5, BB:1, DD:1, FR:2, II:2, Total:30 \n Year: 2020, Semester: 1, Grades: AA:4, AB:1, BB:1, Total:6 \n Year: 2020, Semester: 2, Grades: AA:21, AB:5, Total:26 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:4, AB:1, BB:1, BC:2, II:1, Total:9 \n Year: 2019, Semester: 2, Grades: AA:13, AB:7, BB:2, BC:1, CC:2, Total:25"
     },
     "CS490": {
         "course_code": "CS490",
@@ -2011,7 +2124,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:36, AB:12, BB:2, BC:1, DD:1, FR:2, II:5, Total:59 \n Year: 2022, Semester: 1, Instructor: I - B. L. Menezes, Grades: AA:13, AB:3, BB:3, BC:1, CD:1, DD:1, FR:4, II:2, Total:28 \n Year: 2022, Semester: 1, Instructor: I - B. L. Menezes, Grades: AA:1, Total:1 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:35, AB:10, BB:7, BC:4, DD:1, II:4, Total:61 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AB:1, Total:1 \n Year: 2021, Semester: 1, Grades: AA:21, AB:4, II:1, Total:26 \n Year: 2021, Semester: 1, Grades: AA:2, AB:1, Total:3 \n Year: 2021, Semester: 2, Grades: AA:29, AB:15, BB:9, BC:4, CC:1, DD:2, FR:2, II:3, Total:65 \n Year: 2021, Semester: 2, Grades: AB:1, BC:1, II:1, Total:3 \n Year: 2020, Semester: 1, Grades: AA:33, AB:4, BB:5, II:1, Total:43 \n Year: 2020, Semester: 1, Grades: AA:1, BB:1, Total:2 \n Year: 2020, Semester: 2, Grades: AA:30, AB:11, BB:7, CC:1, Total:49 \n Year: 2020, Semester: 2, Grades: AB:1, Total:1 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:6, AB:8, BB:6, BC:1, CD:1, II:6, Total:28 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:1, Total:1 \n Year: 2019, Semester: 2, Grades: AA:17, AB:7, BB:2, CC:1, FF:1, Total:28 \n Year: 2019, Semester: 2, Grades: AA:1, BB:1, Total:2"
     },
     "CS492": {
         "course_code": "CS492",
@@ -2032,7 +2146,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:32, AB:8, BB:1, DD:1, FR:1, II:3, Total:46 \n Year: 2022, Semester: 1, Grades: AA:36, AB:12, BB:6, BC:1, CC:1, FR:2, II:1, Total:59 \n Year: 2022, Semester: 1, Grades: AB:1, Total:1 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:5, AB:1, BB:1, Total:7 \n Year: 2021, Semester: 1, Grades: AA:33, AB:7, BB:2, II:1, Total:43 \n Year: 2021, Semester: 2, Grades: BB:1, Total:1 \n Year: 2020, Semester: 1, Grades: AA:27, AB:4, BB:1, BC:1, CC:1, FR:1, II:1, Total:36 \n Year: 2020, Semester: 2, Grades: AA:2, AB:5, BB:1, DD:1, Total:9 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:32, AB:16, BB:1, II:3, Total:52 \n Year: 2019, Semester: 2, Grades: AA:3, AB:1, Total:4"
     },
     "CS496": {
         "course_code": "CS496",
@@ -2053,7 +2168,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:2, Total:2 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:31, AB:6, BB:1, BC:1, Total:39 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:20, AB:9, BB:1, II:3, Total:33 \n Year: 2020, Semester: 2, Grades: AA:25, PP:1, Total:26 \n Year: 2019, Semester: 2, Grades: AA:33, AB:4, BB:2, BC:2, Total:41"
     },
     "CS593": {
         "course_code": "CS593",
@@ -2074,7 +2190,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS594": {
         "course_code": "CS594",
@@ -2090,7 +2207,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6001": {
         "course_code": "CS6001",
@@ -2113,7 +2231,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS6002": {
         "course_code": "CS6002",
@@ -2129,7 +2248,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE682": {
         "course_code": "AE682",
@@ -2145,7 +2265,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:1, Total:1 \n Year: 2021, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:2, BB:1, DD:1, FR:1, Total:5 \n Year: 2020, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:1, AB:1, AU:1, BB:1, CD:1, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Vineeth Nair, Grades: PP:7, Total:7"
     },
     "AE683": {
         "course_code": "AE683",
@@ -2169,7 +2290,8 @@
             "Mon": "10:35:00-11:30:00",
             "Thu": "08:30:00-09:25:00",
             "Tue": "11:35:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "AE684": {
         "course_code": "AE684",
@@ -2185,7 +2307,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE685": {
         "course_code": "AE685",
@@ -2201,7 +2324,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE686": {
         "course_code": "AE686",
@@ -2217,7 +2341,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE688": {
         "course_code": "AE688",
@@ -2233,7 +2358,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE690": {
         "course_code": "AE690",
@@ -2249,7 +2375,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE693": {
         "course_code": "AE693",
@@ -2265,7 +2392,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE694": {
         "course_code": "AE694",
@@ -2286,7 +2414,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE695": {
         "course_code": "AE695",
@@ -2309,7 +2438,8 @@
         "class_time": {
             "Mon": "17:30:00-18:55:00",
             "Thu": "17:30:00-18:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS6003": {
         "course_code": "CS6003",
@@ -2325,7 +2455,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6004": {
         "course_code": "CS6004",
@@ -2341,7 +2472,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6007": {
         "course_code": "CS6007",
@@ -2364,7 +2496,8 @@
         "class_time": {
             "Fri": "14:00:00-15:25:00",
             "Tue": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS6008": {
         "course_code": "CS6008",
@@ -2387,7 +2520,8 @@
         "class_time": {
             "Fri": "17:30:00-18:55:00",
             "Tue": "17:30:00-18:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS601": {
         "course_code": "CS601",
@@ -2410,7 +2544,8 @@
         "class_time": {
             "Mon": "14:00:00-15:25:00",
             "Thu": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS602": {
         "course_code": "CS602",
@@ -2433,7 +2568,8 @@
         "class_time": {
             "Fri": "15:30:00-16:55:00",
             "Tue": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS603": {
         "course_code": "CS603",
@@ -2449,7 +2585,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Sujoy Bhore, Grades: AA:3, AB:7, AP:1, BB:6, BC:7, CC:12, CD:6, DD:5, FR:3, Total:50 \n Year: 2022, Semester: 2, Instructor: I - Sujoy Bhore, Grades: BB:1, Total:1"
     },
     "CS604": {
         "course_code": "CS604",
@@ -2472,7 +2609,8 @@
         "class_time": {
             "Fri": "15:30:00-16:55:00",
             "Tue": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS605": {
         "course_code": "CS605",
@@ -2488,7 +2626,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS606": {
         "course_code": "CS606",
@@ -2504,7 +2643,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS608": {
         "course_code": "CS608",
@@ -2520,7 +2660,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6102": {
         "course_code": "CS6102",
@@ -2536,7 +2677,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6103": {
         "course_code": "CS6103",
@@ -2552,7 +2694,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6104": {
         "course_code": "CS6104",
@@ -2568,7 +2711,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS6106": {
         "course_code": "CS6106",
@@ -2584,7 +2728,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS613": {
         "course_code": "CS613",
@@ -2600,7 +2745,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2021, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:3, AB:4, BB:4, BC:1, CC:2, FR:3, II:1, Total:18 \n Year: 2020, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:1, AB:1, BB:2, CC:1, FF:2, FR:1, Total:8 \n Year: 2019, Semester: 1, Instructor: I - Sanyal Amitabh, Grades: AB:3, BB:2, BC:1, CC:2, FR:1, Total:9"
     },
     "CS614": {
         "course_code": "CS614",
@@ -2616,7 +2762,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS615": {
         "course_code": "CS615",
@@ -2632,7 +2779,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS616": {
         "course_code": "CS616",
@@ -2648,7 +2796,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS618": {
         "course_code": "CS618",
@@ -2671,7 +2820,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS620": {
         "course_code": "CS620",
@@ -2687,7 +2837,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS621": {
         "course_code": "CS621",
@@ -2703,7 +2854,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS626": {
         "course_code": "CS626",
@@ -2719,7 +2871,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS631": {
         "course_code": "CS631",
@@ -2742,7 +2895,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS632": {
         "course_code": "CS632",
@@ -2758,7 +2912,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS635": {
         "course_code": "CS635",
@@ -2781,7 +2936,8 @@
         "class_time": {
             "Fri": "14:00:00-15:25:00",
             "Tue": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS641": {
         "course_code": "CS641",
@@ -2797,7 +2953,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS646": {
         "course_code": "CS646",
@@ -2813,7 +2970,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS647": {
         "course_code": "CS647",
@@ -2829,7 +2987,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS648": {
         "course_code": "CS648",
@@ -2845,7 +3004,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS649": {
         "course_code": "CS649",
@@ -2861,7 +3021,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS651": {
         "course_code": "CS651",
@@ -2877,7 +3038,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS653": {
         "course_code": "CS653",
@@ -2893,7 +3055,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS654": {
         "course_code": "CS654",
@@ -2909,7 +3072,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS663": {
         "course_code": "CS663",
@@ -2932,7 +3096,8 @@
         "class_time": {
             "Fri": "15:30:00-16:55:00",
             "Tue": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS671": {
         "course_code": "CS671",
@@ -2948,7 +3113,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS674": {
         "course_code": "CS674",
@@ -2964,7 +3130,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS675": {
         "course_code": "CS675",
@@ -2987,7 +3154,8 @@
         "class_time": {
             "Fri": "14:00:00-15:25:00",
             "Tue": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS677": {
         "course_code": "CS677",
@@ -3003,7 +3171,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS678": {
         "course_code": "CS678",
@@ -3019,7 +3188,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS681": {
         "course_code": "CS681",
@@ -3035,7 +3205,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS682": {
         "course_code": "CS682",
@@ -3051,7 +3222,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS683": {
         "course_code": "CS683",
@@ -3074,7 +3246,8 @@
         "class_time": {
             "Mon": "14:00:00-15:25:00",
             "Thu": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS684": {
         "course_code": "CS684",
@@ -3090,7 +3263,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:7, AB:12, BB:8, BC:2, CC:1, FR:3, Total:33 \n Year: 2022, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:1, BB:1, BC:1, Total:3 \n Year: 2021, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:4, AB:5, BB:6, BC:1, CD:1, Total:17 \n Year: 2020, Semester: 2, Instructor: A - Paritosh K. Pandya I - K. Arya, Grades: AA:3, AB:6, BB:13, BC:4, CC:2, FR:2, Total:30 \n Year: 2020, Semester: 2, Instructor: A - Paritosh K. Pandya I - K. Arya, Grades: BB:2, Total:2 \n Year: 2019, Semester: 2, Instructor: I - K. Arya, Grades: AA:5, AB:16, BB:17, BC:4, PP:2, Total:44"
     },
     "CS686": {
         "course_code": "CS686",
@@ -3106,7 +3280,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS689": {
         "course_code": "CS689",
@@ -3122,7 +3297,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS691": {
         "course_code": "CS691",
@@ -3142,7 +3318,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:9, AB:2, II:1, Total:12 \n Year: 2022, Semester: 1, Grades: AA:10, AB:1, Total:11 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:23, AB:16, BB:9, Total:48 \n Year: 2021, Semester: 1, Grades: AA:9, AB:1, Total:10 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:19, AB:14, BB:4, BC:3, Total:40 \n Year: 2020, Semester: 1, Grades: AA:2, AB:1, Total:3 \n Year: 2020, Semester: 2, Grades: AA:14, AB:13, BB:8, BC:1, CC:1, Total:37 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:3, AB:2, II:1, Total:6 \n Year: 2019, Semester: 2, Grades: AA:29, AB:11, BB:5, BC:1, Total:46"
     },
     "CS692": {
         "course_code": "CS692",
@@ -3162,7 +3339,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:2, Total:2 \n Year: 2022, Semester: 1, Grades: AA:1, II:1, Total:2 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:6, Total:6 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:6, AB:3, BB:2, Total:11 \n Year: 2020, Semester: 2, Grades: AA:7, BB:2, Total:9 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, BB:1, Total:3 \n Year: 2019, Semester: 2, Grades: AA:3, AB:2, Total:5"
     },
     "CS694": {
         "course_code": "CS694",
@@ -3182,7 +3360,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:3, Total:3 \n Year: 2022, Semester: 1, Grades: AA:1, AB:1, BB:1, II:1, Total:4 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:65, AB:23, BB:9, BC:3, FR:1, Total:101 \n Year: 2021, Semester: 1, Grades: AA:1, BB:2, BC:1, CC:1, Total:5 \n Year: 2021, Semester: 2, Grades: AA:60, AB:32, BB:23, BC:2, CC:1, FR:2, Total:120 \n Year: 2020, Semester: 1, Grades: AA:1, Total:1 \n Year: 2020, Semester: 2, Grades: AA:62, AB:40, BB:21, BC:3, CC:2, FR:5, Total:133 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, Total:2 \n Year: 2019, Semester: 2, Grades: AA:43, AB:37, BB:15, BC:1, DD:1, Total:97"
     },
     "CS695": {
         "course_code": "CS695",
@@ -3198,7 +3377,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Purushottam Kulkarni, Grades: AA:7, AB:19, BB:17, BC:18, CC:14, CD:16, DD:4, FR:2, Total:97 \n Year: 2020, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:29, AB:32, AU:2, BB:23, BC:11, CC:5, CD:2, DD:3, FR:7, II:6, Total:120 \n Year: 2020, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:1, Total:1 \n Year: 2019, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AU:1, PP:94, Total:95 \n Year: 2019, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: PP:1, Total:1"
     },
     "CS699": {
         "course_code": "CS699",
@@ -3220,7 +3400,8 @@
         "slot": "X",
         "class_time": {
             "Wed": "19:00:00-20:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS709": {
         "course_code": "CS709",
@@ -3236,7 +3417,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS711": {
         "course_code": "CS711",
@@ -3252,7 +3434,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS713": {
         "course_code": "CS713",
@@ -3268,7 +3451,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS715": {
         "course_code": "CS715",
@@ -3284,7 +3468,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS718": {
         "course_code": "CS718",
@@ -3300,7 +3485,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS719": {
         "course_code": "CS719",
@@ -3316,7 +3502,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS720": {
         "course_code": "CS720",
@@ -3332,7 +3519,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS721": {
         "course_code": "CS721",
@@ -3348,7 +3536,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS724": {
         "course_code": "CS724",
@@ -3364,7 +3553,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS725": {
         "course_code": "CS725",
@@ -3387,7 +3577,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS726": {
         "course_code": "CS726",
@@ -3403,7 +3594,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:12, AB:14, AP:2, BB:33, BC:11, CC:11, CD:7, DD:2, FR:2, Total:94 \n Year: 2022, Semester: 2, Instructor: I - S. Sarawagi, Grades: AB:2, BB:6, BC:1, CC:2, CD:3, DD:1, Total:15 \n Year: 2021, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:10, AB:14, AP:2, BB:19, BC:16, CC:11, CD:6, DD:1, FR:2, Total:81 \n Year: 2021, Semester: 2, Instructor: I - S. Sarawagi, Grades: AB:6, BB:9, BC:4, CC:6, CD:4, DD:1, Total:30 \n Year: 2020, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:12, AB:22, AU:1, BB:22, BC:9, FF:1, S:1, Total:68 \n Year: 2020, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:2, AB:3, BB:1, Total:6 \n Year: 2019, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:34, AB:21, BB:15, BC:20, FF:1, PP:13, Total:104 \n Year: 2019, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:1, AB:2, BC:1, PP:1, Total:5"
     },
     "CS728": {
         "course_code": "CS728",
@@ -3419,7 +3611,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:6, AB:6, BB:2, BC:2, CC:2, Total:18 \n Year: 2022, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:1, AB:1, Total:2 \n Year: 2021, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:7, AB:2, BB:4, Total:13 \n Year: 2020, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:10, AB:10, BB:4, BC:1, CC:2, FR:1, Total:28 \n Year: 2020, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:2, AB:1, BB:1, Total:4 \n Year: 2019, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:10, AB:4, BB:6, BC:1, FF:2, PP:1, Total:24"
     },
     "CS729": {
         "course_code": "CS729",
@@ -3435,7 +3628,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS733": {
         "course_code": "CS733",
@@ -3451,7 +3645,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS735": {
         "course_code": "CS735",
@@ -3474,7 +3669,8 @@
         "class_time": {
             "Mon": "19:00:00-20:25:00",
             "Thu": "19:00:00-20:25:00"
-        }
+        },
+        "grades": "Year: 2019, Semester: 1, Instructor: I - S. Akshay, Grades: AA:3, AB:3, AU:1, BB:1, Total:8"
     },
     "CS736": {
         "course_code": "CS736",
@@ -3490,7 +3686,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:10, AB:11, AU:7, BB:10, BC:8, CC:3, CD:1, DD:1, FR:2, Total:53 \n Year: 2021, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:11, AB:14, AU:7, BB:22, BC:20, CC:10, CD:5, DD:2, FR:3, Total:94 \n Year: 2021, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AB:2, BB:1, BC:5, CD:2, Total:10 \n Year: 2020, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:15, AB:10, AU:10, BB:5, BC:5, DD:1, Total:46 \n Year: 2020, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, BB:3, BC:1, Total:6 \n Year: 2019, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:7, AB:22, AU:7, BB:14, BC:5, DD:1, PP:9, Total:65 \n Year: 2019, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:3, BB:1, BC:1, PP:1, Total:7"
     },
     "CS738": {
         "course_code": "CS738",
@@ -3506,7 +3703,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2020, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AB:2, Total:2"
     },
     "CS740": {
         "course_code": "CS740",
@@ -3529,7 +3727,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS741": {
         "course_code": "CS741",
@@ -3545,7 +3744,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS742": {
         "course_code": "CS742",
@@ -3561,7 +3761,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS743": {
         "course_code": "CS743",
@@ -3577,7 +3778,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS744": {
         "course_code": "CS744",
@@ -3600,7 +3802,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS745": {
         "course_code": "CS745",
@@ -3616,7 +3819,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Virendra Singh, Grades: AA:37, AB:46, AU:1, BB:37, BC:15, CD:1, FR:5, Total:142 \n Year: 2019, Semester: 2, Instructor: I - R. K. Shyamasundar, Grades: AA:3, AB:2, BB:10, BC:2, CC:1, CD:1, FF:4, PP:6, Total:29 \n Year: 2019, Semester: 2, Instructor: I - R. K. Shyamasundar, Grades: AB:1, Total:1"
     },
     "CS746": {
         "course_code": "CS746",
@@ -3632,7 +3836,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS747": {
         "course_code": "CS747",
@@ -3655,7 +3860,8 @@
         "class_time": {
             "Fri": "17:30:00-18:55:00",
             "Tue": "17:30:00-18:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS748": {
         "course_code": "CS748",
@@ -3671,7 +3877,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS749": {
         "course_code": "CS749",
@@ -3687,7 +3894,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS750": {
         "course_code": "CS750",
@@ -3703,7 +3911,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS751": {
         "course_code": "CS751",
@@ -3719,7 +3928,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS752": {
         "course_code": "CS752",
@@ -3735,7 +3945,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS753": {
         "course_code": "CS753",
@@ -3751,7 +3962,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:7, AB:13, AU:3, BB:20, BC:5, CC:1, CD:2, FR:1, Total:52 \n Year: 2022, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AB:3, BB:2, BC:3, CC:4, Total:12 \n Year: 2021, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:8, AB:10, AU:1, BB:22, BC:28, CC:20, CD:7, Total:96 \n Year: 2021, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AB:4, BB:6, BC:3, CC:1, CD:5, DD:2, Total:21 \n Year: 2020, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:32, AB:17, AU:4, BB:11, BC:5, CC:5, CD:3, FR:2, II:9, Total:88 \n Year: 2020, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:2, AB:1, BB:2, BC:1, CC:1, Total:7 \n Year: 2019, Semester: 1, Instructor: I - Preethi Jyothi, Grades: AA:14, AB:16, AP:2, AU:1, BB:34, BC:15, CC:5, CD:5, DD:2, FR:4, Total:98 \n Year: 2019, Semester: 1, Instructor: I - Preethi Jyothi, Grades: AB:2, BB:2, BC:1, DD:1, Total:6"
     },
     "CS754": {
         "course_code": "CS754",
@@ -3767,7 +3979,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2021, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:26, AB:17, BB:23, BC:10, CC:7, CD:5, DD:1, FR:6, Total:95 \n Year: 2021, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: BB:4, BC:1, Total:5 \n Year: 2020, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:28, AB:29, AU:1, BB:8, BC:6, CC:3, FR:1, Total:76 \n Year: 2020, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AB:8, BB:1, BC:1, Total:10 \n Year: 2019, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:19, AB:9, BB:2, BC:1, DD:1, FF:1, PP:1, Total:34 \n Year: 2019, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AB:2, BB:2, Total:4"
     },
     "CS755": {
         "course_code": "CS755",
@@ -3783,7 +3996,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS756": {
         "course_code": "CS756",
@@ -3799,7 +4013,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS757": {
         "course_code": "CS757",
@@ -3822,7 +4037,8 @@
         "class_time": {
             "Mon": "17:30:00-18:55:00",
             "Thu": "17:30:00-18:55:00"
-        }
+        },
+        "grades": "Year: 2019, Semester: 1, Instructor: I - Joshi Rushikesh K., Grades: AB:2, BB:2, Total:4"
     },
     "CS758": {
         "course_code": "CS758",
@@ -3838,7 +4054,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS759": {
         "course_code": "CS759",
@@ -3854,7 +4071,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS760": {
         "course_code": "CS760",
@@ -3870,7 +4088,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS761": {
         "course_code": "CS761",
@@ -3886,7 +4105,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS762": {
         "course_code": "CS762",
@@ -3902,7 +4122,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS763": {
         "course_code": "CS763",
@@ -3918,7 +4139,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS764": {
         "course_code": "CS764",
@@ -3934,7 +4156,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS765": {
         "course_code": "CS765",
@@ -3957,7 +4180,8 @@
         "class_time": {
             "Mon": "15:30:00-16:55:00",
             "Thu": "15:30:00-16:55:00"
-        }
+        },
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Vinay J. Ribeiro, Grades: AA:52, AB:45, AP:3, BB:26, BC:6, CC:5, CD:1, DD:2, Total:140 \n Year: 2021, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AA:72, AB:28, AP:2, BB:11, BC:8, CC:7, CD:4, DD:2, FR:2, Total:136 \n Year: 2021, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AB:1, CD:1, Total:2 \n Year: 2020, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AA:26, AB:25, AP:1, AU:1, BB:35, BC:22, CC:7, CD:3, DD:1, FF:1, FR:6, Total:128"
     },
     "CS766": {
         "course_code": "CS766",
@@ -3973,7 +4197,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS767": {
         "course_code": "CS767",
@@ -3996,7 +4221,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Ranade A., Grades: AA:3, BC:2, CC:1, CD:2, DD:1, FR:9, Total:18 \n Year: 2022, Semester: 2, Instructor: I - Ranade A., Grades: AB:1, BC:1, Total:2 \n Year: 2020, Semester: 1, Instructor: I - Nutan Limaye, Grades: AA:23, AB:10, AP:1, AU:1, BB:9, BC:5, CC:3, FR:1, Total:53 \n Year: 2020, Semester: 1, Instructor: I - Nutan Limaye, Grades: AA:2, BB:1, Total:3"
     },
     "CS768": {
         "course_code": "CS768",
@@ -4012,7 +4238,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS769": {
         "course_code": "CS769",
@@ -4028,7 +4255,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:14, AB:19, AP:2, BB:21, BC:14, CC:2, FR:3, Total:75 \n Year: 2022, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:1, AB:1, BB:2, BC:3, CC:2, DD:1, Total:10 \n Year: 2021, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:10, AB:14, AP:1, BB:8, BC:6, CC:4, DD:2, FF:3, Total:48 \n Year: 2021, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AB:1, BB:4, BC:2, Total:7 \n Year: 2020, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:2, AB:1, AU:1, BB:4, CD:2, DD:1, Total:11 \n Year: 2020, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:4, BB:1, Total:5"
     },
     "CS770": {
         "course_code": "CS770",
@@ -4044,7 +4272,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS771": {
         "course_code": "CS771",
@@ -4067,7 +4296,8 @@
         "class_time": {
             "Mon": "14:00:00-15:25:00",
             "Thu": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "AE696": {
         "course_code": "AE696",
@@ -4083,7 +4313,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE697": {
         "course_code": "AE697",
@@ -4099,7 +4330,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE698": {
         "course_code": "AE698",
@@ -4115,7 +4347,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE699": {
         "course_code": "AE699",
@@ -4131,7 +4364,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE700": {
         "course_code": "AE700",
@@ -4147,7 +4381,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Shashi Ranjan Kumar, Grades: AA:8, AB:9, AP:1, AU:2, BB:9, BC:6, CC:8, CD:9, DD:8, FR:6, Total:66"
     },
     "AE702": {
         "course_code": "AE702",
@@ -4163,7 +4398,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "AE705": {
         "course_code": "AE705",
@@ -4186,7 +4422,8 @@
         "class_time": {
             "Fri": "09:30:00-10:55:00",
             "Wed": "09:30:00-10:55:00"
-        }
+        },
+        "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: AA:5, AB:24, BB:21, BC:7, CC:4, CD:3, DD:2, FR:1, II:1, Total:68 \n Year: 2022, Semester: 1, Instructor: I - Viren Menezes, Grades: AA:5, AB:37, BB:17, BC:5, CC:3, CD:1, II:1, Total:69 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AA:34, AB:22, BB:6, BC:5, CC:3, CD:2, DD:1, Total:73 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AA:24, AB:17, BB:17, BC:12, CC:4, DD:1, Total:75 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: AA:4, AB:12, AP:1, BB:21, BC:11, CC:11, CD:6, DD:3, Total:69"
     },
     "AE706": {
         "course_code": "AE706",
@@ -4202,7 +4439,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Mandal J.C., Grades: AA:4, AB:14, AU:2, BB:5, BC:7, CC:2, CD:2, DD:2, FF:2, FR:2, Total:42 \n Year: 2021, Semester: 2, Instructor: I - Mandal J.C., Grades: AA:3, AB:8, AU:2, BB:5, BC:2, CC:2, CD:4, DD:1, Total:27 \n Year: 2020, Semester: 2, Instructor: I - Mandal J.C., Grades: AB:6, BB:11, BC:7, CC:4, CD:1, FR:1, Total:30 \n Year: 2019, Semester: 2, Instructor: I - Mandal J.C., Grades: AU:3, PP:43, Total:46"
     },
     "AE707": {
         "course_code": "AE707",
@@ -4225,7 +4463,8 @@
         "class_time": {
             "Fri": "15:30:00-16:55:00",
             "Tue": "15:30:00-16:55:00"
-        }
+        },
+        "grades": ""
     },
     "AE708": {
         "course_code": "AE708",
@@ -4241,7 +4480,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2023, Semester: 1, Instructor: I - Kowsik V R Bodi, Grades: AA:2, Total:2 \n Year: 2022, Semester: 1, Instructor: I - Kowsik V R Bodi, Grades: AB:1, BC:2, II:1, Total:4 \n Year: 2022, Semester: 2, Instructor: I - Nagendra Kumar, Grades: AA:3, AB:4, BB:4, BC:6, DD:1, FR:1, Total:19 \n Year: 2021, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: CD:1, FR:1, Total:2 \n Year: 2021, Semester: 2, Instructor: I - Nagendra Kumar, Grades: AA:1, BB:5, BC:6, CC:4, CD:1, FR:3, Total:20 \n Year: 2020, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: AA:1, AB:1, AU:1, BC:1, Total:4 \n Year: 2020, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Sudarshan Kumar, Grades: AA:5, AB:4, BB:10, BC:5, CD:1, Total:25 \n Year: 2019, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: BC:1, Total:1 \n Year: 2019, Semester: 2, Instructor: I - Sudarshan Kumar, Grades: AA:1, AB:6, BB:3, BC:4, PP:7, Total:21"
     },
     "CS772": {
         "course_code": "CS772",
@@ -4264,7 +4504,8 @@
         "class_time": {
             "Fri": "15:30:00-16:55:00",
             "Tue": "15:30:00-16:55:00"
-        }
+        },
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:7, AB:30, AP:1, BB:20, BC:21, CC:17, CD:9, DD:1, FF:1, Total:107 \n Year: 2022, Semester: 2, Instructor: I - Bhattacharya P., Grades: AB:2, BB:5, BC:3, CC:4, CD:2, DD:1, Total:17 \n Year: 2021, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:15, AB:21, BB:28, BC:31, CC:20, CD:2, DD:3, FF:3, Total:123 \n Year: 2021, Semester: 2, Instructor: I - Bhattacharya P., Grades: AB:1, BB:3, CC:7, Total:11 \n Year: 2020, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:15, AB:29, BB:47, BC:42, CC:3, CD:1, FF:2, Total:139 \n Year: 2020, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:1, AB:1, BB:4, BC:3, Total:9"
     },
     "CS773": {
         "course_code": "CS773",
@@ -4280,7 +4521,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS774": {
         "course_code": "CS774",
@@ -4296,7 +4538,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS775": {
         "course_code": "CS775",
@@ -4312,7 +4555,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS776": {
         "course_code": "CS776",
@@ -4328,7 +4572,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS777": {
         "course_code": "CS777",
@@ -4348,7 +4593,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS778": {
         "course_code": "CS778",
@@ -4364,7 +4610,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:17, AB:4, BC:1, Total:22 \n Year: 2021, Semester: 1, Grades: AA:1, AB:2, Total:3 \n Year: 2021, Semester: 2, Grades: AA:11, AB:7, BB:2, Total:20"
     },
     "CS779": {
         "course_code": "CS779",
@@ -4380,7 +4627,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:4, AB:10, AU:1, BB:2, BC:2, CC:3, DD:1, FR:2, II:4, Total:29 \n Year: 2021, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:6, AB:4, BB:2, Total:12 \n Year: 2021, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:5, BB:1, II:1, Total:7 \n Year: 2020, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AB:1, Total:1"
     },
     "CS780": {
         "course_code": "CS780",
@@ -4396,7 +4644,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS781": {
         "course_code": "CS781",
@@ -4419,7 +4668,8 @@
         "class_time": {
             "Mon": "14:00:00-15:25:00",
             "Thu": "14:00:00-15:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS782": {
         "course_code": "CS782",
@@ -4443,7 +4693,8 @@
         "class_time": {
             "Fri": "11:05:00-12:30:00",
             "Wed": "11:05:00-12:30:00"
-        }
+        },
+        "grades": ""
     },
     "CS783": {
         "course_code": "CS783",
@@ -4459,7 +4710,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS784": {
         "course_code": "CS784",
@@ -4475,7 +4727,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS785": {
         "course_code": "CS785",
@@ -4491,7 +4744,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS786": {
         "course_code": "CS786",
@@ -4507,7 +4761,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS787": {
         "course_code": "CS787",
@@ -4523,7 +4778,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS788": {
         "course_code": "CS788",
@@ -4539,7 +4795,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS789": {
         "course_code": "CS789",
@@ -4555,7 +4812,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS790": {
         "course_code": "CS790",
@@ -4578,7 +4836,8 @@
         "class_time": {
             "Mon": "19:00:00-20:25:00",
             "Thu": "19:00:00-20:25:00"
-        }
+        },
+        "grades": ""
     },
     "CS791": {
         "course_code": "CS791",
@@ -4601,7 +4860,8 @@
         "class_time": {
             "Mon": "17:30:00-18:55:00",
             "Thu": "17:30:00-18:55:00"
-        }
+        },
+        "grades": ""
     },
     "CS792": {
         "course_code": "CS792",
@@ -4617,7 +4877,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS797": {
         "course_code": "CS797",
@@ -4637,7 +4898,8 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS798": {
         "course_code": "CS798",
@@ -4653,7 +4915,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS803": {
         "course_code": "CS803",
@@ -4669,7 +4932,8 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": ""
     },
     "CS899": {
         "course_code": "CS899",
@@ -4685,54 +4949,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {}
-    },
-    "CSM300": {
-        "course_code": "CSM300",
-        "course_name": "Instrumentation And Automation",
-        "department": "Computer Science and Engineering",
-        "instructors": [],
-        "tags": [],
-        "credits": 6,
-        "prerequisites": [],
-        "description": null,
-        "is_running": false,
-        "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/CSM300/instrumentation-and-automation",
-        "venue": "",
-        "duration": "",
-        "slot": "",
-        "class_time": {}
-    },
-    "CSM307": {
-        "course_code": "CSM307",
-        "course_name": "Intro To Scientific Computing",
-        "department": "Computer Science and Engineering",
-        "instructors": [],
-        "tags": [],
-        "credits": 8,
-        "prerequisites": [],
-        "description": null,
-        "is_running": false,
-        "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/CSM307/intro-to-scientific-computing",
-        "venue": "",
-        "duration": "",
-        "slot": "",
-        "class_time": {}
-    },
-    "CSM315": {
-        "course_code": "CSM315",
-        "course_name": "Intro To Electrochemical Eng",
-        "department": "Computer Science and Engineering",
-        "instructors": [],
-        "tags": [],
-        "credits": 6,
-        "prerequisites": [],
-        "description": null,
-        "is_running": false,
-        "course_link": "https://resobin.gymkhana.iitb.ac.in/courses/CSM315/intro-to-electrochemical-eng",
-        "venue": "",
-        "duration": "",
-        "slot": "",
-        "class_time": {}
+        "class_time": {},
+        "grades": "Year: 2022, Semester: 2, Instructor: I - Varsha Apte, Grades: NP:2, PP:126, Total:128 \n Year: 2021, Semester: 2, Instructor: I - Varsha Apte, Grades: NP:10, PP:113, Total:123"
     }
 }
