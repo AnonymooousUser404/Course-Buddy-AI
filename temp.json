@@ -13,7 +13,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE103": {
@@ -34,11 +34,7 @@
         "venue": "IC 1",
         "duration": "FullSemester",
         "slot": "4",
-        "class_time": {
-            "Mon": "11:35:00-12:30:00",
-            "Thu": "09:30:00-10:25:00",
-            "Tue": "08:30:00-09:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - CL 102 ESE, Professor - Chandra S. Yerramalli ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE152": {
@@ -59,10 +55,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - CL 106 ESE, Professor - A.M.Pradeep ||| 2023-spring: Core: Lecture slots - 11A, 11B, Venue - LC 202, Professor - A.M.Pradeep",
         "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: BB:4, BC:1, CC:2, CD:1, FF:2, Total:10 \n Year: 2022, Semester: 1, Instructor: I - Pant R.K., Grades: AB:1, BB:7, BC:5, CC:2, FR:2, Total:17 \n Year: 2022, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:10, AB:22, BB:23, BC:10, CC:7, CD:3, DD:1, FF:4, Total:80 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AB:2, BB:1, BC:1, CD:1, Total:5 \n Year: 2021, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:10, AB:22, BB:15, BC:10, CC:7, CD:6, DD:2, FR:3, II:4, Total:79 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AB:1, BB:2, DD:1, FR:1, Total:5 \n Year: 2020, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:20, AB:25, BB:20, BC:11, CC:9, CD:6, DD:1, FF:3, II:1, Total:96 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: BB:1, BC:2, CC:1, DD:3, FR:3, Total:10 \n Year: 2019, Semester: 2, Instructor: I - A.M.Pradeep, Grades: AA:32, AB:21, BB:13, BC:3, CC:1, DD:1, PP:6, Total:77"
     },
     "AE153": {
@@ -83,10 +76,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: Minor: Lecture slots - 5A, 5B, Venue - CL 106 ESE, Professor - A.M.Pradeep ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: AA:2, AB:2, BB:7, BC:3, CC:5, CD:1, Total:20 \n Year: 2022, Semester: 1, Instructor: I - Pant R.K., Grades: AA:3, AB:5, BB:6, BC:4, Total:18 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AA:1, AB:5, BC:3, CC:6, DD:1, FR:1, Total:17 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AA:1, AB:2, BB:1, Total:4 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AB:5, BB:6, BC:6, Total:17 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: BB:2, BC:4, CC:4, CD:5, DD:4, Total:19"
     },
     "AE207": {
@@ -103,7 +93,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE209": {
@@ -120,7 +110,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE214": {
@@ -137,7 +127,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE215": {
@@ -154,7 +144,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE216": {
@@ -171,7 +161,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE219": {
@@ -192,7 +182,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE666": {
@@ -209,7 +199,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE667": {
@@ -230,11 +220,7 @@
         "venue": "LT 305",
         "duration": "FullSemester",
         "slot": "3",
-        "class_time": {
-            "Mon": "10:35:00-11:30:00",
-            "Thu": "08:30:00-09:25:00",
-            "Tue": "11:35:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 3A, 3B, 3C, Venue - LT 105, Professor - Dhwanil Shukla ||| 2023-spring: Core: Lecture slots - 1A, 1B, 1C, Venue - CL 105 ESE, Professor - Dhwanil Shukla",
         "grades": ""
     },
     "AE668": {
@@ -251,7 +237,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE669": {
@@ -268,7 +254,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE670": {
@@ -285,7 +271,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - LT 001, Professor - Hrishikesh Gadgil",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Hrishikesh Gadgil, Grades: AA:2, AB:2, BB:2, BC:2, CC:1, CD:2, DD:3, FR:5, Total:19 \n Year: 2022, Semester: 2, Instructor: I - Hrishikesh Gadgil, Grades: AB:1, Total:1"
     },
     "AE673": {
@@ -302,7 +288,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2022, Semester: 1, Instructor: I - P J Guruprasad, Grades: AA:5, AB:5, BB:1, BC:5, CD:1, DD:1, FF:1, II:1, Total:20 \n Year: 2021, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:4, AB:9, BB:3, BC:2, CC:1, CD:1, DD:2, Total:22 \n Year: 2020, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:3, AB:6, AU:1, BB:3, BC:3, CC:2, CD:2, DD:1, FR:3, Total:24 \n Year: 2019, Semester: 1, Instructor: I - Chandra S. Yerramalli, Grades: AA:2, AB:6, AU:9, BB:8, BC:4, FR:1, Total:30"
     },
     "AE676": {
@@ -319,7 +305,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE678": {
@@ -336,7 +322,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 8A, 8B, Venue - LT 003, Professor - Mujumdar P. M.",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:1, AB:2, BB:1, BC:2, CC:5, CD:1, DD:3, FF:2, FR:1, Total:18 \n Year: 2021, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:3, AB:2, BB:4, BC:2, CC:3, FR:3, Total:17 \n Year: 2020, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AA:2, AB:3, BB:2, BC:4, CC:2, DD:1, II:1, Total:15 \n Year: 2019, Semester: 2, Instructor: I - Mujumdar P. M., Grades: AB:3, BB:12, BC:1, CC:1, PP:1, Total:18"
     },
     "AE679": {
@@ -353,7 +339,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE681": {
@@ -374,10 +360,7 @@
         "venue": "LC 302",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 8A, 8B, Venue - Seminar Hall - 207, Professor - Nagendra Kumar ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CLS802": {
@@ -394,7 +377,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:10, AB:8, BB:2, BC:2, Total:22 \n Year: 2021, Semester: 1, Instructor: I - Partha S. Goswami, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:11, AB:12, BB:5, FR:1, II:3, Total:32 \n Year: 2020, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:8, AB:6, II:6, Total:20 \n Year: 2019, Semester: 2, Instructor: I - Partha S. Goswami, Grades: AA:10, AB:3, Total:13"
     },
     "CM0793": {
@@ -411,7 +394,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM402": {
@@ -428,7 +411,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - CL 103 ESE, Professor - Raghu Murtugudde ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM501": {
@@ -445,7 +428,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 11A, 11B, Venue - LT 006, Professor - S. Ravichandran",
         "grades": ""
     },
     "CM503": {
@@ -462,7 +445,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 9A, 9B, Venue - LT 005, Professor - Angshuman Modak",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Angshuman Modak, Grades: AA:1, AB:1, BB:1, BC:2, II:1, Total:6"
     },
     "CM504": {
@@ -479,7 +462,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 10A, 10B, Venue - LT 006, Professor - Vishal Dixit",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Vishal Dixit, Grades: AA:1, AB:1, AU:3, BB:1, II:1, Total:7"
     },
     "CM505": {
@@ -496,7 +479,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - LT 206, Professor - Angshuman Modak ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM507": {
@@ -547,7 +530,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM605": {
@@ -564,7 +547,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM606": {
@@ -581,7 +564,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM608": {
@@ -598,7 +581,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM611": {
@@ -615,7 +598,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 6A, 6B, Venue - LT 103, Professor - Raghu Murtugudde",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Raghu Murtugudde, Grades: AU:1, FF:3, Total:4 \n Year: 2021, Semester: 2, Instructor: I - Raghu Murtugudde, Grades: AU:8, BB:1, CC:1, Total:10"
     },
     "CM612": {
@@ -632,7 +615,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 10A, 10B, Venue - LT 201, Professor - Vishal Dixit ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM613": {
@@ -649,7 +632,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 8A, 8B, Venue - LT 203, Professor - S. Ravichandran ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - S. Ravichandran, Grades: AB:1, BB:3, Total:4"
     },
     "CM615": {
@@ -768,7 +751,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 14A, 14B, Venue - LT 005, Professor - Subhankar Karmakar",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:8, AB:9, AU:1, BB:7, BC:1, FF:1, FR:1, Total:28 \n Year: 2021, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:5, AB:5, AU:2, BB:9, BC:3, CC:1, CD:2, DD:3, FR:4, Total:34 \n Year: 2019, Semester: 2, Instructor: I - Subhankar Karmakar, Grades: AA:10, AB:13, BB:2, BC:1, CC:1, FF:1, Total:28"
     },
     "CM802": {
@@ -785,7 +768,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM803": {
@@ -802,7 +785,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 9A, 9B, Venue - CL 104 ESE, Professor - Pradip P. Kalbar, Trupti Mishra, Angshuman Modak ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CM899": {
@@ -819,7 +802,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - XC, Professor - Harish C. Phuleria ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CMS801": {
@@ -836,7 +819,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Vishal Dixit, Grades: AA:2, AB:3, BB:2, Total:7 \n Year: 2022, Semester: 1, Instructor: I - Vishal Dixit, Grades: AA:1, AB:2, FF:2, Total:5 \n Year: 2022, Semester: 2, Instructor: I - Vishal Dixit, Grades: AB:2, II:1, Total:3 \n Year: 2021, Semester: 1, Instructor: I - Subimal Ghosh, Grades: AA:3, AB:3, BB:1, II:1, Total:8 \n Year: 2021, Semester: 2, Instructor: I - Subimal Ghosh, Grades: AA:2, AB:1, Total:3 \n Year: 2020, Semester: 1, Instructor: I - Parthasarathy D., Grades: AA:1, AB:1, Total:2 \n Year: 2020, Semester: 2, Instructor: I - Parthasarathy D., Grades: AA:5, AB:6, BB:1, FR:1, II:2, Total:15 \n Year: 2019, Semester: 1, Grades: AA:1, AB:5, BB:3, BC:1, Total:10 \n Year: 2019, Semester: 2, Grades: AA:2, AB:2, CC:1, Total:5"
     },
     "CMS802": {
@@ -853,7 +836,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2021, Semester: 2, Instructor: I - Subimal Ghosh, Grades: AA:1, AB:1, Total:2"
     },
     "CS0793": {
@@ -870,7 +853,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS101": {
@@ -891,10 +874,7 @@
         "venue": "LA 202",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: D3: Lecture slots - 6A, 6B, Venue - LA 202, Professor - Suyash P. Awate | D4: Lecture slots - 10A, 10B, Venue - LA 202, Professor - Suyash P. Awate ||| 2023-spring: D1: Lecture slots - 6A, 6B, Venue - LA 202, Professor - Mythili Vutukuru | D2: Lecture slots - 10A, 10B, Venue - LA 202, Professor - Mythili Vutukuru",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:42, AB:57, AP:11, BB:69, BC:70, CC:48, CD:18, DD:25, FF:15, FR:6, Total:361 \n Year: 2023, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:23, AB:49, AP:3, BB:74, BC:71, CC:69, CD:29, DD:24, FF:17, FR:17, Total:376 \n Year: 2022, Semester: 1, Instructor: I - Ajit V. Rajwade, Grades: AA:83, AB:61, AP:12, BB:59, BC:42, CC:31, CD:28, DD:41, FR:19, Total:376 \n Year: 2022, Semester: 1, Instructor: I - Ajit V. Rajwade, Grades: AA:31, AB:45, AP:3, BB:33, BC:45, CC:50, CD:47, DD:107, FR:11, Total:372 \n Year: 2022, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:58, AB:45, AP:6, BB:59, BC:59, CC:47, CD:23, DD:39, FR:12, II:1, Total:349 \n Year: 2022, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:60, AB:67, AP:6, BB:57, BC:42, CC:35, CD:26, DD:36, FR:9, Total:338 \n Year: 2021, Semester: 1, Instructor: I - Parag Chaudhuri, Grades: AA:52, AB:62, BB:87, BC:90, CC:48, CD:22, DD:27, FR:13, II:1, Total:402 \n Year: 2021, Semester: 1, Instructor: I - Parag Chaudhuri, Grades: AA:23, AB:38, BB:44, BC:98, CC:77, CD:48, DD:32, FR:27, Total:387 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:98, AB:83, BB:59, BC:46, CC:31, CD:23, DD:11, FR:8, Total:359 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:28, AB:26, BB:40, BC:59, CC:43, CD:60, DD:50, FR:18, Total:324 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:38, AB:49, BB:55, BC:60, CC:40, CD:51, DD:27, FR:16, Total:336 \n Year: 2020, Semester: 1, Instructor: I - Kameswari Chebrolu, Grades: AA:21, AB:27, BB:44, BC:58, CC:52, CD:55, DD:56, FR:22, Total:335 \n Year: 2020, Semester: 2, Instructor: I - Biswas S., Grades: AA:2, AB:9, AP:1, BB:26, BC:20, CC:17, CD:11, DD:7, FR:5, II:7, Total:105 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: DD:1, Total:1 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: , Total:1 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: AA:37, AB:51, AP:1, BB:66, BC:48, CC:45, CD:46, DD:43, FR:23, Total:360 \n Year: 2019, Semester: 1, Instructor: I - Purushottam Kulkarni, Grades: AA:7, AB:26, BB:35, BC:46, CC:46, CD:46, DD:46, FR:28, Total:280 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: BB:1, CD:1, PP:1, Total:3 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: AA:22, AB:34, BB:47, BC:45, CC:27, CD:13, DD:12, FF:6, PP:79, Total:285 \n Year: 2019, Semester: 2, Instructor: I - Bharat Adsul, Grades: AA:10, AB:35, BB:34, BC:44, CC:18, CD:13, DD:9, FF:5, PP:110, Total:278"
     },
     "CS103": {
@@ -911,7 +891,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS104": {
@@ -928,7 +908,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 4A, 4B, 4C, Venue - LA 202, Professor - Kameswari Chebrolu",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Kameswari Chebrolu, Grades: AA:29, AB:24, BB:40, BC:30, CC:17, CD:7, DD:11, FR:15, Total:173"
     },
     "CS105": {
@@ -949,10 +929,7 @@
         "venue": "LA 201",
         "duration": "FullSemester",
         "slot": "10",
-        "class_time": {
-            "Fri": "14:00:00-15:25:00",
-            "Tue": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 4A, 4B, 4C, Venue - LA 202, Professor - S. Akshay ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS108": {
@@ -986,7 +963,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 2A, 2B, 2C, Venue - SIC205, Professor - Manas Thakur ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS154": {
@@ -1003,7 +980,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - L1, Professor - Manas Thakur ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS207": {
@@ -1020,7 +997,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 2A, 2B, 2C, Venue - LH 101, Professor - Diwan A.A. ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - CC 103, Professor - Manoj Prabhakaran | Minor: Lecture slots - 5A, 5B, Venue - CC 103, Professor - Manoj Prabhakaran",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:6, AB:21, AP:3, BB:31, BC:41, CC:40, CD:33, DD:4, FF:11, II:2, Total:192 \n Year: 2022, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:13, AB:19, AP:3, BB:28, BC:36, CC:36, CD:30, DD:17, FF:8, II:5, Total:195 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: BC:1, DD:1, FR:1, Total:3 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:10, AB:16, BB:22, BC:22, CC:27, CD:19, DD:7, FR:3, Total:126 \n Year: 2021, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:22, AB:24, AP:1, AU:1, BB:56, BC:28, CC:27, CD:14, DD:6, FR:3, Total:182 \n Year: 2020, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:21, AB:39, AP:3, BB:45, BC:19, CC:10, CD:8, DD:9, FF:1, FR:3, Total:158 \n Year: 2020, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: BB:1, FR:1, Total:2 \n Year: 2019, Semester: 1, Instructor: I - Manoj Prabhakaran, Grades: AA:12, AB:19, AP:2, BB:37, BC:19, CC:18, CD:12, DD:6, FR:9, Total:134"
     },
     "CS208": {
@@ -1037,7 +1014,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS210": {
@@ -1054,7 +1031,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS213": {
@@ -1075,10 +1052,7 @@
         "venue": "LA 002",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 1A, 1B, 1C, Venue - LH 101, Professor - Ashutosh Kumar Gupta ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - LA 001, Professor - Sohoni Milind | Minor: Lecture slots - 5A, 5B, Venue - LA 001, Professor - Sohoni Milind",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:19, AB:35, AP:2, BB:44, BC:33, CC:23, CD:18, DD:14, FR:9, Total:197 \n Year: 2022, Semester: 1, Instructor: I - Sohoni Milind, Grades: AA:10, AB:30, AP:1, BB:37, BC:56, CC:30, CD:17, DD:9, FF:3, FR:8, Total:201 \n Year: 2022, Semester: 1, Instructor: I - Sohoni Milind, Grades: CC:1, Total:1 \n Year: 2022, Semester: 2, Instructor: I - Sohoni Milind, Grades: BB:1, CC:1, CD:1, DD:1, FR:5, Total:9 \n Year: 2022, Semester: 2, Instructor: I - Sohoni Milind, Grades: AA:2, AB:13, AP:1, BB:41, BC:21, CC:25, CD:9, DD:17, FF:3, FR:16, II:3, Total:151 \n Year: 2021, Semester: 1, Instructor: I - Sohoni Milind, Grades: AA:24, AB:27, BB:21, BC:65, CC:29, CD:11, DD:1, FR:3, Total:181 \n Year: 2021, Semester: 2, Instructor: I - Sohoni Milind, Grades: AU:3, FR:1, Total:4 \n Year: 2021, Semester: 2, Instructor: I - Sohoni Milind, Grades: AB:8, BB:6, BC:28, CC:38, CD:37, DD:7, FR:11, II:2, Total:137 \n Year: 2020, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:6, AB:32, AP:1, BB:23, BC:21, CC:25, CD:20, DD:11, FF:1, FR:6, Total:146 \n Year: 2020, Semester: 2, Instructor: I - Sharat Chandran, Grades: AA:2, AB:6, BB:13, BC:2, CC:13, CD:3, DD:7, FR:10, Total:56 \n Year: 2020, Semester: 2, Instructor: I - Sharat Chandran, Grades: AA:12, AB:10, BB:30, BC:2, CC:5, CD:2, DD:1, FR:1, Total:63 \n Year: 2019, Semester: 1, Instructor: I - Diwan A.A., Grades: AA:10, AB:6, BB:21, BC:34, CC:34, CD:23, DD:5, FR:5, II:1, Total:139 \n Year: 2019, Semester: 2, Instructor: I - Biswas S., Grades: BC:1, DD:1, FF:1, FR:1, PP:1, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Biswas S., Grades: AA:7, AB:10, BB:11, BC:9, CC:6, FF:1, PP:36, Total:80"
     },
     "CS215": {
@@ -1099,11 +1073,7 @@
         "venue": "LA 002",
         "duration": "FullSemester",
         "slot": "3",
-        "class_time": {
-            "Mon": "10:35:00-11:30:00",
-            "Thu": "08:30:00-09:25:00",
-            "Tue": "11:35:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 8A, 8B, Venue - LH 101, Professor - Ajit V. Rajwade ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS217": {
@@ -1137,7 +1107,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - LA 202, Professor - Ranade A. | Minor: Lecture slots - 5A, 5B, Venue - LA 202, Professor - Ranade A. ||| 2023-spring: Core: Lecture slots - 10A, 10B, Venue - LH 302, Professor - Rohit Gurjar",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Ranade A., Grades: BB:1, FF:1, FR:1, Total:3 \n Year: 2023, Semester: 1, Instructor: I - Ranade A., Grades: AA:2, AB:8, BB:18, BC:14, CC:18, CD:14, DD:17, FF:1, FR:1, II:1, Total:94 \n Year: 2022, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:12, AB:17, BB:37, BC:9, CC:1, DD:1, Total:77 \n Year: 2022, Semester: 2, Instructor: I - Rohit Gurjar, Grades: AA:38, AB:41, BB:58, BC:39, CC:9, CD:5, FR:3, Total:193 \n Year: 2021, Semester: 1, Instructor: I - Ranade A., Grades: AA:4, AB:10, BB:10, BC:12, CC:10, CD:4, DD:1, FF:2, FR:3, Total:56 \n Year: 2021, Semester: 2, Instructor: I - Mrinal Kumar, Grades: AA:26, AB:26, BB:43, BC:51, CC:15, CD:12, DD:9, FR:4, Total:186 \n Year: 2020, Semester: 1, Instructor: I - Ranade A., Grades: DD:1, Total:1 \n Year: 2020, Semester: 1, Instructor: I - Ranade A., Grades: AA:12, AB:16, BB:11, BC:14, CC:12, CD:13, DD:1, Total:79 \n Year: 2020, Semester: 2, Instructor: I - Nutan Limaye, Grades: AA:56, AB:18, AP:3, BB:23, BC:15, CC:6, CD:11, DD:3, II:8, Total:143 \n Year: 2019, Semester: 2, Instructor: I - Nutan Limaye, Grades: AA:11, AB:16, BB:3, BC:2, CC:3, CD:2, DD:3, FF:8, PP:93, Total:141"
     },
     "CS219": {
@@ -1178,7 +1148,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - CC 103, Professor - Vinay J. Ribeiro | Minor: Lecture slots - 5A, 5B, Venue - CC 103, Professor - Vinay J. Ribeiro ||| 2023-spring: Core: Lecture slots - 1A, 1B, 1C, Venue - LA 001, Professor - Bhaskar Raman",
         "grades": ""
     },
     "CS226": {
@@ -1195,7 +1165,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS228": {
@@ -1216,11 +1186,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "4",
-        "class_time": {
-            "Mon": "11:35:00-12:30:00",
-            "Thu": "09:30:00-10:25:00",
-            "Tue": "08:30:00-09:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - LA 201, Professor - Krishna Shankara Narayanan | Minor: Lecture slots - 5A, 5B, Venue - LA 201, Professor - Krishna Shankara Narayanan ||| 2023-spring: Core: Lecture slots - 2A, 2B, 2C, Venue - LH 102, Professor - Krishna Shankara Narayanan, Ashutosh Kumar Gupta",
         "grades": ""
     },
     "CS230": {
@@ -1241,11 +1207,7 @@
         "venue": "LH 101",
         "duration": "FullSemester",
         "slot": "2",
-        "class_time": {
-            "Mon": "09:30:00-10:25:00",
-            "Thu": "11:35:00-12:30:00",
-            "Tue": "10:35:00-11:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 6A, 6B, Venue - LA 001, Professor - Biswabandan Panda ||| 2023-spring: Core: Lecture slots - 6A, 6B, Venue - LA 001, Professor - Biswabandan Panda",
         "grades": ""
     },
     "CS231": {
@@ -1285,7 +1247,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - L2, Professor - Biswabandan Panda ||| 2023-spring: Core: Lecture slots - L1, Professor - Biswabandan Panda",
         "grades": ""
     },
     "CS236": {
@@ -1336,7 +1298,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS252": {
@@ -1353,7 +1315,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - L3, Professor - Bhaskar Raman",
         "grades": ""
     },
     "CS254": {
@@ -1370,7 +1332,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS288": {
@@ -1387,7 +1349,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS293": {
@@ -1408,9 +1370,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "L",
-        "class_time": {
-            "Fri": "14:00:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - L4, Professor - Ashutosh Kumar Gupta ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS296": {
@@ -1427,7 +1387,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS302": {
@@ -1444,7 +1404,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 2A, 2B, 2C, Venue - LH 301, Professor - Sanyal Amitabh",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:20, AB:26, BB:41, BC:23, CC:35, CD:12, DD:8, FR:12, Total:177 \n Year: 2021, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:14, AB:31, BB:18, BC:26, CC:17, CD:14, DD:18, FR:1, II:4, Total:143 \n Year: 2020, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:30, AB:18, BB:17, BC:13, CC:11, CD:8, DD:13, FF:2, FR:1, II:16, Total:129 \n Year: 2019, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:21, AB:15, BB:8, BC:17, CC:2, CD:1, DD:4, FF:8, PP:56, Total:132"
     },
     "CS305": {
@@ -1461,7 +1421,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS306": {
@@ -1478,7 +1438,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS308": {
@@ -1495,7 +1455,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS310": {
@@ -1516,10 +1476,7 @@
         "venue": "LH 102",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 4A, 4B, 4C, Venue - LA 002, Professor - Paritosh K. Pandya ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:20, AB:32, AP:4, BB:68, BC:37, CC:23, CD:4, DD:5, FR:3, Total:196 \n Year: 2022, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:18, AB:33, AP:2, BB:30, BC:47, CC:27, CD:12, DD:5, II:4, Total:178 \n Year: 2021, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AA:2, AB:8, BB:18, BC:12, CD:3, Total:43 \n Year: 2021, Semester: 2, Instructor: I - Sivakumar G., Grades: AA:11, AB:26, BB:29, BC:25, CC:23, CD:16, DD:8, II:5, Total:143 \n Year: 2020, Semester: 2, Instructor: I - S. Akshay, Grades: AA:27, AB:30, BB:23, BC:22, CC:22, CD:7, DD:3, Total:134 \n Year: 2019, Semester: 2, Instructor: I - S. Akshay, Grades: AA:11, AB:15, BB:15, BC:15, CC:8, CD:1, DD:2, FF:4, PP:59, Total:130"
     },
     "CS316": {
@@ -1536,7 +1493,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - L2, Venue - LH 102, Professor - Sanyal Amitabh",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:78, AB:26, AP:4, BB:4, BC:15, CC:3, CD:7, DD:18, FR:29, Total:184 \n Year: 2021, Semester: 1, Grades: CD:1, Total:1 \n Year: 2021, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:76, AB:10, BB:10, BC:10, CC:8, CD:6, DD:10, FR:16, II:2, Total:148 \n Year: 2020, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:80, AB:10, BB:10, BC:6, CC:10, CD:4, II:6, Total:126 \n Year: 2019, Semester: 2, Instructor: I - Uday Khedkar, Grades: AA:12, AB:48, BB:11, BC:5, CC:4, CD:3, DD:1, FF:1, PP:44, Total:129"
     },
     "CS317": {
@@ -1557,10 +1514,7 @@
         "venue": "KR 125",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 6A, 6B, Venue - LH 102, Professor - B. L. Menezes",
         "grades": "Year: 2022, Semester: 2, Instructor: I - B. L. Menezes, Grades: AA:32, AB:20, BB:63, BC:23, CC:17, CD:8, DD:6, FF:5, FR:5, Total:179 \n Year: 2021, Semester: 2, Instructor: A - Sudarshan S. I - Bellur Umesh, Grades: AA:27, AB:23, BB:27, BC:31, CC:22, CD:6, DD:8, FR:7, Total:151 \n Year: 2020, Semester: 2, Instructor: I - Sudarshan S., Grades: AA:32, AB:27, BB:20, BC:9, CC:14, CD:5, DD:14, FF:3, II:8, Total:132 \n Year: 2019, Semester: 2, Instructor: A - Sudarshan S. I - Sriram Srinivasan, Grades: AA:21, AB:24, AP:2, AU:1, BB:13, BC:10, CC:12, CD:3, DD:2, FF:4, PP:38, Total:130"
     },
     "CS3235": {
@@ -1577,7 +1531,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS333": {
@@ -1594,7 +1548,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - L3, Professor - Purushottam Kulkarni ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS335": {
@@ -1611,7 +1565,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - L1, Professor - Preethi Jyothi ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS337": {
@@ -1628,7 +1582,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 2A, 2B, 2C, Venue - LH 102, Professor - Preethi Jyothi ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS339": {
@@ -1670,7 +1624,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS344": {
@@ -1687,7 +1641,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS347": {
@@ -1708,10 +1662,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 6A, 6B, Venue - LA 002, Professor - Purushottam Kulkarni ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS348": {
@@ -1732,11 +1683,7 @@
         "venue": "LH 101",
         "duration": "FullSemester",
         "slot": "4",
-        "class_time": {
-            "Mon": "11:35:00-12:30:00",
-            "Thu": "09:30:00-10:25:00",
-            "Tue": "08:30:00-09:25:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS349": {
@@ -1770,7 +1717,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS355": {
@@ -1810,7 +1757,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS378": {
@@ -1831,9 +1778,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "L",
-        "class_time": {
-            "Thu": "14:00:00-16:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS386": {
@@ -1850,7 +1795,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS387": {
@@ -1867,7 +1812,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - L4, Professor - Sudarshan S.",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Sudarshan S., Grades: AA:55, AB:58, BB:32, BC:12, CC:13, CD:3, DD:3, FR:4, Total:180 \n Year: 2021, Semester: 1, Grades: DD:1, Total:1 \n Year: 2021, Semester: 2, Instructor: A - Sudarshan S. I - Bellur Umesh, Grades: AA:74, AB:23, BB:17, BC:13, CC:3, CD:5, DD:2, FR:7, Total:144 \n Year: 2020, Semester: 1, Grades: FR:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Bellur Umesh, Grades: AA:89, AB:15, AU:1, BB:14, BC:2, CC:5, CD:2, FR:5, Total:133 \n Year: 2019, Semester: 2, Instructor: A - Sudarshan S. I - Sriram Srinivasan, Grades: AA:68, AB:32, AU:1, BB:6, CC:2, CD:1, DD:2, FF:4, PP:10, Total:126"
     },
     "CS396": {
@@ -1889,7 +1834,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:3, AB:3, Total:6 \n Year: 2022, Semester: 1, Grades: AA:3, BC:1, CC:1, Total:5 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:5, Total:5 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:3, AB:1, Total:4 \n Year: 2020, Semester: 1, Grades: AA:3, Total:3 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:4, FR:2, Total:6 \n Year: 2019, Semester: 2, Grades: AA:7, AB:1, Total:8"
     },
     "CS405": {
@@ -1930,7 +1875,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 14A, 14B, Venue - CC 101, Professor - Manoj Prabhakaran",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:3, AB:8, BB:16, BC:8, CC:4, CD:2, FR:3, Total:44 \n Year: 2022, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Manoj Prabhakaran, Grades: AA:3, AB:13, AU:1, BB:7, DD:1, FR:4, II:2, Total:31"
     },
     "CS408": {
@@ -1947,7 +1892,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 3A, 3B, 3C, Professor - Ranade A.",
         "grades": ""
     },
     "CS409": {
@@ -1988,7 +1933,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS419": {
@@ -2009,10 +1954,7 @@
         "venue": "KR225",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Minor: Lecture slots - 5A, 5B, Venue - LC 001, Professor - Abir De",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Abir De, Grades: AA:12, AB:13, BB:45, BC:11, CC:6, CD:4, DD:2, Total:93 \n Year: 2021, Semester: 2, Instructor: I - Abir De, Grades: AA:8, AB:24, BB:36, BC:27, CC:29, CD:4, DD:4, FR:3, Total:135 \n Year: 2020, Semester: 2, Instructor: I - Abir De, Grades: AA:22, AB:27, BB:19, BC:4, II:4, Total:76 \n Year: 2019, Semester: 2, Instructor: I - Preethi Jyothi, Grades: BB:1, BC:1, CD:3, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:16, AB:21, BB:6, BC:23, CC:6, CD:2, PP:22, Total:96"
     },
     "CS433": {
@@ -2029,7 +1971,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2022, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:1, AB:1, BB:3, BC:1, CC:1, DD:1, Total:8 \n Year: 2021, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:2, BB:4, DD:1, Total:7 \n Year: 2020, Semester: 1, Instructor: I - Ashutosh Kumar Gupta, Grades: AA:3, AB:4, AU:1, BB:3, BC:1, Total:12"
     },
     "CS449": {
@@ -2046,7 +1988,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS467": {
@@ -2063,7 +2005,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS475": {
@@ -2080,7 +2022,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - SIC305, Professor - Parag Chaudhuri ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS485": {
@@ -2102,7 +2044,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:14, AB:4, BB:2, Total:20 \n Year: 2022, Semester: 1, Grades: AA:8, AB:2, BB:1, BC:1, Total:12 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:7, AB:5, BB:1, BC:1, CC:1, II:2, Total:17 \n Year: 2021, Semester: 1, Grades: AA:6, AB:1, Total:7 \n Year: 2021, Semester: 2, Grades: AA:19, AB:5, BB:1, DD:1, FR:2, II:2, Total:30 \n Year: 2020, Semester: 1, Grades: AA:4, AB:1, BB:1, Total:6 \n Year: 2020, Semester: 2, Grades: AA:21, AB:5, Total:26 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:4, AB:1, BB:1, BC:2, II:1, Total:9 \n Year: 2019, Semester: 2, Grades: AA:13, AB:7, BB:2, BC:1, CC:2, Total:25"
     },
     "CS490": {
@@ -2124,7 +2066,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:36, AB:12, BB:2, BC:1, DD:1, FR:2, II:5, Total:59 \n Year: 2022, Semester: 1, Instructor: I - B. L. Menezes, Grades: AA:13, AB:3, BB:3, BC:1, CD:1, DD:1, FR:4, II:2, Total:28 \n Year: 2022, Semester: 1, Instructor: I - B. L. Menezes, Grades: AA:1, Total:1 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:35, AB:10, BB:7, BC:4, DD:1, II:4, Total:61 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AB:1, Total:1 \n Year: 2021, Semester: 1, Grades: AA:21, AB:4, II:1, Total:26 \n Year: 2021, Semester: 1, Grades: AA:2, AB:1, Total:3 \n Year: 2021, Semester: 2, Grades: AA:29, AB:15, BB:9, BC:4, CC:1, DD:2, FR:2, II:3, Total:65 \n Year: 2021, Semester: 2, Grades: AB:1, BC:1, II:1, Total:3 \n Year: 2020, Semester: 1, Grades: AA:33, AB:4, BB:5, II:1, Total:43 \n Year: 2020, Semester: 1, Grades: AA:1, BB:1, Total:2 \n Year: 2020, Semester: 2, Grades: AA:30, AB:11, BB:7, CC:1, Total:49 \n Year: 2020, Semester: 2, Grades: AB:1, Total:1 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:6, AB:8, BB:6, BC:1, CD:1, II:6, Total:28 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:1, Total:1 \n Year: 2019, Semester: 2, Grades: AA:17, AB:7, BB:2, CC:1, FF:1, Total:28 \n Year: 2019, Semester: 2, Grades: AA:1, BB:1, Total:2"
     },
     "CS492": {
@@ -2146,7 +2088,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:32, AB:8, BB:1, DD:1, FR:1, II:3, Total:46 \n Year: 2022, Semester: 1, Grades: AA:36, AB:12, BB:6, BC:1, CC:1, FR:2, II:1, Total:59 \n Year: 2022, Semester: 1, Grades: AB:1, Total:1 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:5, AB:1, BB:1, Total:7 \n Year: 2021, Semester: 1, Grades: AA:33, AB:7, BB:2, II:1, Total:43 \n Year: 2021, Semester: 2, Grades: BB:1, Total:1 \n Year: 2020, Semester: 1, Grades: AA:27, AB:4, BB:1, BC:1, CC:1, FR:1, II:1, Total:36 \n Year: 2020, Semester: 2, Grades: AA:2, AB:5, BB:1, DD:1, Total:9 \n Year: 2019, Semester: 1, Instructor: I - Sivakumar G., Grades: AA:32, AB:16, BB:1, II:3, Total:52 \n Year: 2019, Semester: 2, Grades: AA:3, AB:1, Total:4"
     },
     "CS496": {
@@ -2168,7 +2110,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Uday Khedkar, Grades: AA:2, Total:2 \n Year: 2022, Semester: 2, Instructor: A - Uday Khedkar I - Ashutosh Kumar Gupta, Grades: AA:31, AB:6, BB:1, BC:1, Total:39 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:20, AB:9, BB:1, II:3, Total:33 \n Year: 2020, Semester: 2, Grades: AA:25, PP:1, Total:26 \n Year: 2019, Semester: 2, Grades: AA:33, AB:4, BB:2, BC:2, Total:41"
     },
     "CS593": {
@@ -2190,7 +2132,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS594": {
@@ -2207,7 +2149,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS6001": {
@@ -2228,10 +2170,7 @@
         "venue": "LA 002",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - LA 001, Professor - Swaprava Nath ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS6002": {
@@ -2248,7 +2187,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 8A, 8B, Venue - CC 101, Professor - Swaprava Nath",
         "grades": ""
     },
     "AE682": {
@@ -2265,7 +2204,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2022, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:1, Total:1 \n Year: 2021, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:2, BB:1, DD:1, FR:1, Total:5 \n Year: 2020, Semester: 1, Instructor: I - Vineeth Nair, Grades: AA:1, AB:1, AU:1, BB:1, CD:1, Total:5 \n Year: 2019, Semester: 2, Instructor: I - Vineeth Nair, Grades: PP:7, Total:7"
     },
     "AE683": {
@@ -2375,7 +2314,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE693": {
@@ -2392,7 +2331,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE694": {
@@ -2414,7 +2353,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE695": {
@@ -2435,10 +2374,7 @@
         "venue": "LT 006",
         "duration": "FullSemester",
         "slot": "12",
-        "class_time": {
-            "Mon": "17:30:00-18:55:00",
-            "Thu": "17:30:00-18:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 9A, 9B, Venue - LT 005, Professor - Rohit Gupta ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS6003": {
@@ -2541,10 +2477,7 @@
         "venue": "LH 101",
         "duration": "FullSemester",
         "slot": "8",
-        "class_time": {
-            "Mon": "14:00:00-15:25:00",
-            "Thu": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 8A, 8B, Venue - LC 002, Professor - Sujoy Bhore ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS602": {
@@ -2565,10 +2498,7 @@
         "venue": "CC 101",
         "duration": "FullSemester",
         "slot": "11",
-        "class_time": {
-            "Fri": "15:30:00-16:55:00",
-            "Tue": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 10A, 10B, Venue - 301, Professor - Rohit Gurjar ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS603": {
@@ -2585,7 +2515,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 9A, 9B, Venue - CC 101, Professor - Sujoy Bhore",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Sujoy Bhore, Grades: AA:3, AB:7, AP:1, BB:6, BC:7, CC:12, CD:6, DD:5, FR:3, Total:50 \n Year: 2022, Semester: 2, Instructor: I - Sujoy Bhore, Grades: BB:1, Total:1"
     },
     "CS604": {
@@ -2606,10 +2536,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "11",
-        "class_time": {
-            "Fri": "15:30:00-16:55:00",
-            "Tue": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 9A, 9B, Professor - Vishwanathan Sundar ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS605": {
@@ -2626,7 +2553,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS606": {
@@ -2643,7 +2570,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS608": {
@@ -2660,7 +2587,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS6102": {
@@ -2745,7 +2672,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2021, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:3, AB:4, BB:4, BC:1, CC:2, FR:3, II:1, Total:18 \n Year: 2020, Semester: 2, Instructor: I - Sanyal Amitabh, Grades: AA:1, AB:1, BB:2, CC:1, FF:2, FR:1, Total:8 \n Year: 2019, Semester: 1, Instructor: I - Sanyal Amitabh, Grades: AB:3, BB:2, BC:1, CC:2, FR:1, Total:9"
     },
     "CS614": {
@@ -2762,7 +2689,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 10A, 10B, Venue - CC 105, Professor - Manas Thakur ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS615": {
@@ -2779,7 +2706,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS616": {
@@ -2796,7 +2723,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS618": {
@@ -2817,10 +2744,7 @@
         "venue": "CC 101",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 9A, 9B, Venue - SIC205, Professor - Uday Khedkar ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS620": {
@@ -2837,7 +2761,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS621": {
@@ -2854,7 +2778,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS626": {
@@ -2871,7 +2795,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 12A, 12B, Venue - LH 301, Professor - Bhattacharya P. ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS631": {
@@ -2892,10 +2816,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - CC 101, Professor - Sudarshan S. ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS632": {
@@ -2912,7 +2833,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS635": {
@@ -2933,10 +2854,7 @@
         "venue": "CC103",
         "duration": "FullSemester",
         "slot": "10",
-        "class_time": {
-            "Fri": "14:00:00-15:25:00",
-            "Tue": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - LT 002, Professor - Chakrabarti Soumen ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS641": {
@@ -2953,7 +2871,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS646": {
@@ -2970,7 +2888,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS647": {
@@ -2987,7 +2905,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS648": {
@@ -3004,7 +2922,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS649": {
@@ -3021,7 +2939,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS651": {
@@ -3038,7 +2956,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS653": {
@@ -3055,7 +2973,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS654": {
@@ -3072,7 +2990,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS663": {
@@ -3093,10 +3011,7 @@
         "venue": "LH 101",
         "duration": "FullSemester",
         "slot": "11",
-        "class_time": {
-            "Fri": "15:30:00-16:55:00",
-            "Tue": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 12A, 12B, Venue - LH 101, Professor - Ajit V. Rajwade ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS671": {
@@ -3113,7 +3028,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS674": {
@@ -3130,7 +3045,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS675": {
@@ -3151,10 +3066,7 @@
         "venue": "KR225",
         "duration": "FullSemester",
         "slot": "10",
-        "class_time": {
-            "Fri": "14:00:00-15:25:00",
-            "Tue": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 11A, 11B, Venue - SIC205, Professor - Parag Chaudhuri ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS677": {
@@ -3171,7 +3083,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS678": {
@@ -3188,7 +3100,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS681": {
@@ -3205,7 +3117,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 10A, 10B, Venue - CC 101, Professor - Varsha Apte",
         "grades": ""
     },
     "CS682": {
@@ -3222,7 +3134,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS683": {
@@ -3243,10 +3155,7 @@
         "venue": "LH 102",
         "duration": "FullSemester",
         "slot": "8",
-        "class_time": {
-            "Mon": "14:00:00-15:25:00",
-            "Thu": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 15A, 15B, Venue - LC 002, Professor - Biswabandan Panda ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS684": {
@@ -3263,7 +3172,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 8A, 8B, Venue - CC 105, Professor - K. Arya, Paritosh K. Pandya",
         "grades": "Year: 2022, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:7, AB:12, BB:8, BC:2, CC:1, FR:3, Total:33 \n Year: 2022, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:1, BB:1, BC:1, Total:3 \n Year: 2021, Semester: 2, Instructor: A - K. Arya I - Paritosh K. Pandya, Grades: AA:4, AB:5, BB:6, BC:1, CD:1, Total:17 \n Year: 2020, Semester: 2, Instructor: A - Paritosh K. Pandya I - K. Arya, Grades: AA:3, AB:6, BB:13, BC:4, CC:2, FR:2, Total:30 \n Year: 2020, Semester: 2, Instructor: A - Paritosh K. Pandya I - K. Arya, Grades: BB:2, Total:2 \n Year: 2019, Semester: 2, Instructor: I - K. Arya, Grades: AA:5, AB:16, BB:17, BC:4, PP:2, Total:44"
     },
     "CS686": {
@@ -3280,7 +3189,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS689": {
@@ -3297,7 +3206,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS691": {
@@ -3318,7 +3227,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:9, AB:2, II:1, Total:12 \n Year: 2022, Semester: 1, Grades: AA:10, AB:1, Total:11 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:23, AB:16, BB:9, Total:48 \n Year: 2021, Semester: 1, Grades: AA:9, AB:1, Total:10 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:19, AB:14, BB:4, BC:3, Total:40 \n Year: 2020, Semester: 1, Grades: AA:2, AB:1, Total:3 \n Year: 2020, Semester: 2, Grades: AA:14, AB:13, BB:8, BC:1, CC:1, Total:37 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:3, AB:2, II:1, Total:6 \n Year: 2019, Semester: 2, Grades: AA:29, AB:11, BB:5, BC:1, Total:46"
     },
     "CS692": {
@@ -3339,7 +3248,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:2, Total:2 \n Year: 2022, Semester: 1, Grades: AA:1, II:1, Total:2 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:6, Total:6 \n Year: 2021, Semester: 1, Grades: AA:1, Total:1 \n Year: 2021, Semester: 2, Grades: AA:6, AB:3, BB:2, Total:11 \n Year: 2020, Semester: 2, Grades: AA:7, BB:2, Total:9 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, BB:1, Total:3 \n Year: 2019, Semester: 2, Grades: AA:3, AB:2, Total:5"
     },
     "CS694": {
@@ -3360,7 +3269,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:3, Total:3 \n Year: 2022, Semester: 1, Grades: AA:1, AB:1, BB:1, II:1, Total:4 \n Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:65, AB:23, BB:9, BC:3, FR:1, Total:101 \n Year: 2021, Semester: 1, Grades: AA:1, BB:2, BC:1, CC:1, Total:5 \n Year: 2021, Semester: 2, Grades: AA:60, AB:32, BB:23, BC:2, CC:1, FR:2, Total:120 \n Year: 2020, Semester: 1, Grades: AA:1, Total:1 \n Year: 2020, Semester: 2, Grades: AA:62, AB:40, BB:21, BC:3, CC:2, FR:5, Total:133 \n Year: 2019, Semester: 1, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, Total:2 \n Year: 2019, Semester: 2, Grades: AA:43, AB:37, BB:15, BC:1, DD:1, Total:97"
     },
     "CS695": {
@@ -3377,7 +3286,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - LH 101, Professor - Purushottam Kulkarni",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Purushottam Kulkarni, Grades: AA:7, AB:19, BB:17, BC:18, CC:14, CD:16, DD:4, FR:2, Total:97 \n Year: 2020, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:29, AB:32, AU:2, BB:23, BC:11, CC:5, CD:2, DD:3, FR:7, II:6, Total:120 \n Year: 2020, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AA:1, Total:1 \n Year: 2019, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: AU:1, PP:94, Total:95 \n Year: 2019, Semester: 2, Instructor: I - Mythili Vutukuru, Grades: PP:1, Total:1"
     },
     "CS699": {
@@ -3398,9 +3307,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "X",
-        "class_time": {
-            "Wed": "19:00:00-20:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - LX, Professor - Bhaskar Raman ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS709": {
@@ -3417,7 +3324,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS711": {
@@ -3434,7 +3341,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS713": {
@@ -3451,7 +3358,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS715": {
@@ -3468,7 +3375,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS718": {
@@ -3485,7 +3392,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS719": {
@@ -3502,7 +3409,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 3A, 3B, 3C, Venue - CC 105, Professor - Bharat Adsul",
         "grades": ""
     },
     "CS720": {
@@ -3519,7 +3426,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS721": {
@@ -3536,7 +3443,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS724": {
@@ -3553,7 +3460,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS725": {
@@ -3574,10 +3481,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - LA 002, Professor - S. Sarawagi ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS726": {
@@ -3594,7 +3498,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 3A, 3B, 3C, Venue - LA 002, Professor - S. Sarawagi",
         "grades": "Year: 2022, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:12, AB:14, AP:2, BB:33, BC:11, CC:11, CD:7, DD:2, FR:2, Total:94 \n Year: 2022, Semester: 2, Instructor: I - S. Sarawagi, Grades: AB:2, BB:6, BC:1, CC:2, CD:3, DD:1, Total:15 \n Year: 2021, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:10, AB:14, AP:2, BB:19, BC:16, CC:11, CD:6, DD:1, FR:2, Total:81 \n Year: 2021, Semester: 2, Instructor: I - S. Sarawagi, Grades: AB:6, BB:9, BC:4, CC:6, CD:4, DD:1, Total:30 \n Year: 2020, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:12, AB:22, AU:1, BB:22, BC:9, FF:1, S:1, Total:68 \n Year: 2020, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:2, AB:3, BB:1, Total:6 \n Year: 2019, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:34, AB:21, BB:15, BC:20, FF:1, PP:13, Total:104 \n Year: 2019, Semester: 2, Instructor: I - S. Sarawagi, Grades: AA:1, AB:2, BC:1, PP:1, Total:5"
     },
     "CS728": {
@@ -3611,7 +3515,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 9A, 9B, Venue - CC 105, Professor - Chakrabarti Soumen",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:6, AB:6, BB:2, BC:2, CC:2, Total:18 \n Year: 2022, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:1, AB:1, Total:2 \n Year: 2021, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:7, AB:2, BB:4, Total:13 \n Year: 2020, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:10, AB:10, BB:4, BC:1, CC:2, FR:1, Total:28 \n Year: 2020, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:2, AB:1, BB:1, Total:4 \n Year: 2019, Semester: 2, Instructor: I - Chakrabarti Soumen, Grades: AA:10, AB:4, BB:6, BC:1, FF:2, PP:1, Total:24"
     },
     "CS729": {
@@ -3628,7 +3532,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS733": {
@@ -3645,7 +3549,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS735": {
@@ -3666,10 +3570,7 @@
         "venue": "CC 101",
         "duration": "FullSemester",
         "slot": "13",
-        "class_time": {
-            "Mon": "19:00:00-20:25:00",
-            "Thu": "19:00:00-20:25:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2019, Semester: 1, Instructor: I - S. Akshay, Grades: AA:3, AB:3, AU:1, BB:1, Total:8"
     },
     "CS736": {
@@ -3686,7 +3587,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - CC 101, Professor - Suyash P. Awate",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:10, AB:11, AU:7, BB:10, BC:8, CC:3, CD:1, DD:1, FR:2, Total:53 \n Year: 2021, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:11, AB:14, AU:7, BB:22, BC:20, CC:10, CD:5, DD:2, FR:3, Total:94 \n Year: 2021, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AB:2, BB:1, BC:5, CD:2, Total:10 \n Year: 2020, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:15, AB:10, AU:10, BB:5, BC:5, DD:1, Total:46 \n Year: 2020, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:1, BB:3, BC:1, Total:6 \n Year: 2019, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:7, AB:22, AU:7, BB:14, BC:5, DD:1, PP:9, Total:65 \n Year: 2019, Semester: 2, Instructor: I - Suyash P. Awate, Grades: AA:1, AB:3, BB:1, BC:1, PP:1, Total:7"
     },
     "CS738": {
@@ -3703,7 +3604,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2020, Semester: 1, Instructor: I - Paritosh K. Pandya, Grades: AB:2, Total:2"
     },
     "CS740": {
@@ -3724,10 +3625,7 @@
         "venue": "KR225",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS741": {
@@ -3744,7 +3642,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 12A, 12B, Venue - CC 105, Professor - Virendra Singh ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS742": {
@@ -3761,7 +3659,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 14A, 14B, Venue - LA 002, Professor - Kameswari Chebrolu ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS743": {
@@ -3778,7 +3676,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS744": {
@@ -3799,10 +3697,7 @@
         "venue": "CC103",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 12A, 12B, Venue - CC 103, Professor - Varsha Apte ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS745": {
@@ -3819,7 +3714,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 12A, 12B, Venue - LH 301, Professor - Virendra Singh",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Virendra Singh, Grades: AA:37, AB:46, AU:1, BB:37, BC:15, CD:1, FR:5, Total:142 \n Year: 2019, Semester: 2, Instructor: I - R. K. Shyamasundar, Grades: AA:3, AB:2, BB:10, BC:2, CC:1, CD:1, FF:4, PP:6, Total:29 \n Year: 2019, Semester: 2, Instructor: I - R. K. Shyamasundar, Grades: AB:1, Total:1"
     },
     "CS746": {
@@ -3836,7 +3731,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS747": {
@@ -3857,10 +3752,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "14",
-        "class_time": {
-            "Fri": "17:30:00-18:55:00",
-            "Tue": "17:30:00-18:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 14A, 14B, Venue - LA 001, Professor - Shivaram Kalyanakrishnan ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS748": {
@@ -3877,7 +3769,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 13A, 13B, Venue - CC 101, Professor - Shivaram Kalyanakrishnan",
         "grades": ""
     },
     "CS749": {
@@ -3894,7 +3786,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS750": {
@@ -3911,7 +3803,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS751": {
@@ -3928,7 +3820,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS752": {
@@ -3945,7 +3837,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 6A, 6B, Venue - CC 103, Professor - Om P. Damani",
         "grades": ""
     },
     "CS753": {
@@ -3962,7 +3854,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 8A, 8B, Venue - CC 103, Professor - Preethi Jyothi",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:7, AB:13, AU:3, BB:20, BC:5, CC:1, CD:2, FR:1, Total:52 \n Year: 2022, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AB:3, BB:2, BC:3, CC:4, Total:12 \n Year: 2021, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:8, AB:10, AU:1, BB:22, BC:28, CC:20, CD:7, Total:96 \n Year: 2021, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AB:4, BB:6, BC:3, CC:1, CD:5, DD:2, Total:21 \n Year: 2020, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:32, AB:17, AU:4, BB:11, BC:5, CC:5, CD:3, FR:2, II:9, Total:88 \n Year: 2020, Semester: 2, Instructor: I - Preethi Jyothi, Grades: AA:2, AB:1, BB:2, BC:1, CC:1, Total:7 \n Year: 2019, Semester: 1, Instructor: I - Preethi Jyothi, Grades: AA:14, AB:16, AP:2, AU:1, BB:34, BC:15, CC:5, CD:5, DD:2, FR:4, Total:98 \n Year: 2019, Semester: 1, Instructor: I - Preethi Jyothi, Grades: AB:2, BB:2, BC:1, DD:1, Total:6"
     },
     "CS754": {
@@ -3979,7 +3871,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2021, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:26, AB:17, BB:23, BC:10, CC:7, CD:5, DD:1, FR:6, Total:95 \n Year: 2021, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: BB:4, BC:1, Total:5 \n Year: 2020, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:28, AB:29, AU:1, BB:8, BC:6, CC:3, FR:1, Total:76 \n Year: 2020, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AB:8, BB:1, BC:1, Total:10 \n Year: 2019, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AA:19, AB:9, BB:2, BC:1, DD:1, FF:1, PP:1, Total:34 \n Year: 2019, Semester: 2, Instructor: I - Ajit V. Rajwade, Grades: AB:2, BB:2, Total:4"
     },
     "CS755": {
@@ -4013,7 +3905,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS757": {
@@ -4034,10 +3926,7 @@
         "venue": "LA 002",
         "duration": "FullSemester",
         "slot": "12",
-        "class_time": {
-            "Mon": "17:30:00-18:55:00",
-            "Thu": "17:30:00-18:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2019, Semester: 1, Instructor: I - Joshi Rushikesh K., Grades: AB:2, BB:2, Total:4"
     },
     "CS758": {
@@ -4054,7 +3943,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 8A, 8B, Venue - SIC305, Professor - Manoj Prabhakaran ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS759": {
@@ -4071,7 +3960,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 3A, 3B, 3C, Venue - CC 101, Professor - Diwan A.A.",
         "grades": ""
     },
     "CS760": {
@@ -4088,7 +3977,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS761": {
@@ -4105,7 +3994,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS762": {
@@ -4122,7 +4011,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS763": {
@@ -4139,7 +4028,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 14A, 14B, Venue - CC 103, Professor - Sharat Chandran",
         "grades": ""
     },
     "CS764": {
@@ -4156,7 +4045,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS765": {
@@ -4177,10 +4066,7 @@
         "venue": "KR 125",
         "duration": "FullSemester",
         "slot": "9",
-        "class_time": {
-            "Mon": "15:30:00-16:55:00",
-            "Thu": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 4A, 4B, 4C, Venue - LA 002, Professor - Vinay J. Ribeiro",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Vinay J. Ribeiro, Grades: AA:52, AB:45, AP:3, BB:26, BC:6, CC:5, CD:1, DD:2, Total:140 \n Year: 2021, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AA:72, AB:28, AP:2, BB:11, BC:8, CC:7, CD:4, DD:2, FR:2, Total:136 \n Year: 2021, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AB:1, CD:1, Total:2 \n Year: 2020, Semester: 1, Instructor: I - Vinay J. Ribeiro, Grades: AA:26, AB:25, AP:1, AU:1, BB:35, BC:22, CC:7, CD:3, DD:1, FF:1, FR:6, Total:128"
     },
     "CS766": {
@@ -4197,7 +4083,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 4A, 4B, 4C, Venue - CC 105, Professor - Krishna Shankara Narayanan, Ashutosh Kumar Gupta",
         "grades": ""
     },
     "CS767": {
@@ -4218,10 +4104,7 @@
         "venue": "ESE 109",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 5A, 5B, Venue - CC 105, Professor - Ranade A.",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Ranade A., Grades: AA:3, BC:2, CC:1, CD:2, DD:1, FR:9, Total:18 \n Year: 2022, Semester: 2, Instructor: I - Ranade A., Grades: AB:1, BC:1, Total:2 \n Year: 2020, Semester: 1, Instructor: I - Nutan Limaye, Grades: AA:23, AB:10, AP:1, AU:1, BB:9, BC:5, CC:3, FR:1, Total:53 \n Year: 2020, Semester: 1, Instructor: I - Nutan Limaye, Grades: AA:2, BB:1, Total:3"
     },
     "CS768": {
@@ -4238,7 +4121,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 13A, 13B, Venue - CC 101, Professor - Abir De ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS769": {
@@ -4255,7 +4138,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 9A, 9B, Venue - CC 103, Professor - G.Ramakrishnan",
         "grades": "Year: 2022, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:14, AB:19, AP:2, BB:21, BC:14, CC:2, FR:3, Total:75 \n Year: 2022, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:1, AB:1, BB:2, BC:3, CC:2, DD:1, Total:10 \n Year: 2021, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:10, AB:14, AP:1, BB:8, BC:6, CC:4, DD:2, FF:3, Total:48 \n Year: 2021, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AB:1, BB:4, BC:2, Total:7 \n Year: 2020, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:2, AB:1, AU:1, BB:4, CD:2, DD:1, Total:11 \n Year: 2020, Semester: 2, Instructor: I - G.Ramakrishnan, Grades: AA:4, BB:1, Total:5"
     },
     "CS770": {
@@ -4272,7 +4155,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 13A, 13B, Venue - LC 001, Professor - Joshi Rushikesh K. ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS771": {
@@ -4293,10 +4176,7 @@
         "venue": "CC 101",
         "duration": "FullSemester",
         "slot": "8",
-        "class_time": {
-            "Mon": "14:00:00-15:25:00",
-            "Thu": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 1A, 1B, 1C, Venue - SIC205, Professor - Bharat Adsul ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE696": {
@@ -4313,7 +4193,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE697": {
@@ -4330,7 +4210,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE698": {
@@ -4347,7 +4227,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE699": {
@@ -4364,7 +4244,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - L2, Professor - Arnab Maity, Arya Hemendra, Shashi Ranjan Kumar, Rohit Gupta ||| 2023-spring: Core: Lecture slots - L2, L4, Professor - Arya Hemendra, Rohit Gupta, Shashi Ranjan Kumar, Arnab Maity",
         "grades": ""
     },
     "AE700": {
@@ -4381,7 +4261,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 12A, 12B, Venue - LC 202, Professor - Shashi Ranjan Kumar",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Shashi Ranjan Kumar, Grades: AA:8, AB:9, AP:1, AU:2, BB:9, BC:6, CC:8, CD:9, DD:8, FR:6, Total:66"
     },
     "AE702": {
@@ -4398,7 +4278,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE705": {
@@ -4419,10 +4299,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 5A, 5B, Venue - CL 106 ESE, Professor - A.M.Pradeep ||| 2023-spring: No timetable available",
         "grades": "Year: 2023, Semester: 1, Instructor: I - A.M.Pradeep, Grades: AA:5, AB:24, BB:21, BC:7, CC:4, CD:3, DD:2, FR:1, II:1, Total:68 \n Year: 2022, Semester: 1, Instructor: I - Viren Menezes, Grades: AA:5, AB:37, BB:17, BC:5, CC:3, CD:1, II:1, Total:69 \n Year: 2021, Semester: 1, Instructor: I - Pant R.K., Grades: AA:34, AB:22, BB:6, BC:5, CC:3, CD:2, DD:1, Total:73 \n Year: 2020, Semester: 1, Instructor: I - Pant R.K., Grades: AA:24, AB:17, BB:17, BC:12, CC:4, DD:1, Total:75 \n Year: 2019, Semester: 1, Instructor: I - Pant R.K., Grades: AA:4, AB:12, AP:1, BB:21, BC:11, CC:11, CD:6, DD:3, Total:69"
     },
     "AE706": {
@@ -4439,7 +4316,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 15A, 15B, Venue - LT 101, Professor - Mandal J.C.",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Mandal J.C., Grades: AA:4, AB:14, AU:2, BB:5, BC:7, CC:2, CD:2, DD:2, FF:2, FR:2, Total:42 \n Year: 2021, Semester: 2, Instructor: I - Mandal J.C., Grades: AA:3, AB:8, AU:2, BB:5, BC:2, CC:2, CD:4, DD:1, Total:27 \n Year: 2020, Semester: 2, Instructor: I - Mandal J.C., Grades: AB:6, BB:11, BC:7, CC:4, CD:1, FR:1, Total:30 \n Year: 2019, Semester: 2, Instructor: I - Mandal J.C., Grades: AU:3, PP:43, Total:46"
     },
     "AE707": {
@@ -4460,10 +4337,7 @@
         "venue": "LT 103",
         "duration": "FullSemester",
         "slot": "11",
-        "class_time": {
-            "Fri": "15:30:00-16:55:00",
-            "Tue": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 1A, 1B, 1C, Venue - LT 202, Professor - Aniruddha Sinha ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "AE708": {
@@ -4480,7 +4354,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 2A, 2B, 2C, Venue - LC 102, Professor - Kowsik V R Bodi ||| 2023-spring: Core: Lecture slots - 12A, 12B, Venue - LT 001, Professor - Nagendra Kumar",
         "grades": "Year: 2023, Semester: 1, Instructor: I - Kowsik V R Bodi, Grades: AA:2, Total:2 \n Year: 2022, Semester: 1, Instructor: I - Kowsik V R Bodi, Grades: AB:1, BC:2, II:1, Total:4 \n Year: 2022, Semester: 2, Instructor: I - Nagendra Kumar, Grades: AA:3, AB:4, BB:4, BC:6, DD:1, FR:1, Total:19 \n Year: 2021, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: CD:1, FR:1, Total:2 \n Year: 2021, Semester: 2, Instructor: I - Nagendra Kumar, Grades: AA:1, BB:5, BC:6, CC:4, CD:1, FR:3, Total:20 \n Year: 2020, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: AA:1, AB:1, AU:1, BC:1, Total:4 \n Year: 2020, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Sudarshan Kumar, Grades: AA:5, AB:4, BB:10, BC:5, CD:1, Total:25 \n Year: 2019, Semester: 1, Instructor: I - Hrishikesh Gadgil, Grades: BC:1, Total:1 \n Year: 2019, Semester: 2, Instructor: I - Sudarshan Kumar, Grades: AA:1, AB:6, BB:3, BC:4, PP:7, Total:21"
     },
     "CS772": {
@@ -4501,10 +4375,7 @@
         "venue": "LH 302",
         "duration": "FullSemester",
         "slot": "11",
-        "class_time": {
-            "Fri": "15:30:00-16:55:00",
-            "Tue": "15:30:00-16:55:00"
-        },
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 4A, 4B, 4C, Venue - CC 103, Professor - Bhattacharya P.",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:7, AB:30, AP:1, BB:20, BC:21, CC:17, CD:9, DD:1, FF:1, Total:107 \n Year: 2022, Semester: 2, Instructor: I - Bhattacharya P., Grades: AB:2, BB:5, BC:3, CC:4, CD:2, DD:1, Total:17 \n Year: 2021, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:15, AB:21, BB:28, BC:31, CC:20, CD:2, DD:3, FF:3, Total:123 \n Year: 2021, Semester: 2, Instructor: I - Bhattacharya P., Grades: AB:1, BB:3, CC:7, Total:11 \n Year: 2020, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:15, AB:29, BB:47, BC:42, CC:3, CD:1, FF:2, Total:139 \n Year: 2020, Semester: 2, Instructor: I - Bhattacharya P., Grades: AA:1, AB:1, BB:4, BC:3, Total:9"
     },
     "CS773": {
@@ -4521,7 +4392,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS774": {
@@ -4538,7 +4409,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: Core: Lecture slots - 12A, 12B, Venue - CC 101, Professor - Akash Kumar ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS775": {
@@ -4555,7 +4426,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 13A, 13B, Venue - CC 105, Professor - Parag Chaudhuri",
         "grades": ""
     },
     "CS776": {
@@ -4572,7 +4443,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS777": {
@@ -4593,7 +4464,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS778": {
@@ -4610,7 +4481,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Bhaskar Raman I - Preethi Jyothi, Grades: AA:17, AB:4, BC:1, Total:22 \n Year: 2021, Semester: 1, Grades: AA:1, AB:2, Total:3 \n Year: 2021, Semester: 2, Grades: AA:11, AB:7, BB:2, Total:20"
     },
     "CS779": {
@@ -4627,7 +4498,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - 11A, 11B, Venue - CC 101, Professor - Vishwanathan Sundar",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:4, AB:10, AU:1, BB:2, BC:2, CC:3, DD:1, FR:2, II:4, Total:29 \n Year: 2021, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:6, AB:4, BB:2, Total:12 \n Year: 2021, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AB:1, Total:1 \n Year: 2020, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AA:5, BB:1, II:1, Total:7 \n Year: 2020, Semester: 2, Instructor: I - Vishwanathan Sundar, Grades: AB:1, Total:1"
     },
     "CS780": {
@@ -4644,7 +4515,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS781": {
@@ -4665,10 +4536,7 @@
         "venue": "LT 106",
         "duration": "FullSemester",
         "slot": "8",
-        "class_time": {
-            "Mon": "14:00:00-15:25:00",
-            "Thu": "14:00:00-15:25:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 10A, 10B, Venue - SIC205, Professor - Supratik Chakraborty ||| 2023-spring: Core: Lecture slots - 8A, 8B, Venue - 301, Professor - Supratik Chakraborty",
         "grades": ""
     },
     "CS782": {
@@ -4690,10 +4558,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "6",
-        "class_time": {
-            "Fri": "11:05:00-12:30:00",
-            "Wed": "11:05:00-12:30:00"
-        },
+        "class_time": "2023-autumn: Core: Lecture slots - 6A, 6B, Venue - SIC205, Professor - Sohoni Milind ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS783": {
@@ -4877,7 +4742,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS797": {
@@ -4898,7 +4763,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS798": {
@@ -4915,7 +4780,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: No timetable available",
         "grades": ""
     },
     "CS803": {
@@ -4949,7 +4814,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "2023-autumn: No timetable available ||| 2023-spring: Core: Lecture slots - XC, XD, Venue - CC 103, Professor - Varsha Apte",
         "grades": "Year: 2022, Semester: 2, Instructor: I - Varsha Apte, Grades: NP:2, PP:126, Total:128 \n Year: 2021, Semester: 2, Instructor: I - Varsha Apte, Grades: NP:10, PP:113, Total:123"
     }
 }
