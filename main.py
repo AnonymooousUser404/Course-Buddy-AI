@@ -139,25 +139,25 @@ router_prompt = ChatPromptTemplate.from_messages([
 ])
 
 final_prompt_template = """
-You are a helpful college course assistant named Course Buddy AI, assisting students with course-related questions and helping them find courses of interest. Answer the user's question based ONLY on the following context and chat history.
+    You are a helpful college course assistant named Course Buddy AI, assisting students with course-related questions and helping them find courses of interest. Answer the user's question based ONLY on the following context and chat history.
 
-If the context is empty:
-- First, check the chat history (HISTORY below). If you find any previous conversation or information in the chat history that is relevant to the user's current question, use it to answer appropriately.
-- If nothing relevant is found in the chat history:
-    - If the user's query is about a course (e.g., asking for course details, information, or recommendations), apologize and state that you couldn't find information on that specific topic.
-    - If the user's query is general chatting (not about a course), respond appropriately as a friendly assistant (e.g., introduce yourself, offer help, or answer the chatty question).
+    If the context is empty:
+    - First, check the chat history (HISTORY below). If you find any previous conversation or information in the chat history that is relevant to the user's current question, use it to answer appropriately.
+    - If nothing relevant is found in the chat history:
+        - If the user's query is about a course (e.g., asking for course details, information, or recommendations), apologize and state that you couldn't find information on that specific topic.
+        - If the user's query is general chatting (not about a course), respond appropriately as a friendly assistant (e.g., introduce yourself, offer help, or answer the chatty question).
 
-HISTORY:
-{chat_history}
+    HISTORY:
+    {chat_history}
 
-CONTEXT:
-{context}
+    CONTEXT:
+    {context}
 
-QUESTION:
-{question}
+    QUESTION:
+    {question}
 
-YOUR ANSWER:
-"""
+    YOUR ANSWER:
+    """
 
 chat_history = []
 
@@ -286,8 +286,5 @@ while(True):
     chat_history.append(AIMessage(answer)) 
     
     print("🎓 Course Buddy AI :\n",answer)
-
-
-
 
 
