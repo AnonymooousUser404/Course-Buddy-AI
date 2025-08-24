@@ -104,8 +104,8 @@ history_aware_prompt = ChatPromptTemplate.from_messages([
 ])
 
 class CourseMetadataSearch(BaseModel):
-    """A tool to find courses using filters like instructor, course code, slot, or department."""
-    course_code: str = Field(default=None, description="The code for the course, e.g., 'bb706'")
+    """A tool to find courses using filters like instructor, course code(s), slot, or department."""
+    course_code: list[str] = Field(default=None, description="A list of course codes, e.g., ['bb706', 'cs101']")
     instructors: str = Field(default=None, description="The name of the instructor")
     slot: str = Field(default=None, description="The schedule slot for the course, e.g., '6'")
     department: str = Field(default=None, description="The department offering the course, e.g., 'Physics', 'Mathematics', or 'Bioscience and Engineering'")
@@ -116,7 +116,12 @@ class CourseMetadataSearch(BaseModel):
         super().__init__(**data)
         # Standardize fields to lowercase for consistent filtering
         if self.course_code is not None:
-            self.course_code = self.course_code.lower().replace(" ", "").replace("-", "")
+            # Accept both comma-separated string or list, and normalize to list of cleaned codes
+            if isinstance(self.course_code, str):
+                codes = [c.strip().lower().replace(" ", "").replace("-", "") for c in self.course_code.split(",") if c.strip()]
+                self.course_code = codes
+            elif isinstance(self.course_code, list):
+                self.course_code = [c.lower().replace(" ", "").replace("-", "") for c in self.course_code if isinstance(c, str)]
         if self.instructors is not None:
             self.instructors = self.instructors.lower()
         if self.slot is not None:
@@ -139,13 +144,12 @@ router_prompt = ChatPromptTemplate.from_messages([
 ])
 
 final_prompt_template = """
-    You are a helpful college course assistant named Course Buddy AI, assisting students with course-related questions and helping them find courses of interest. Answer the user's question based ONLY on the following context and chat history.
+    You are Course Buddy AI, a helpful college course assistant. When answering the user's question, always try to formulate your answer using BOTH the chat history and the provided context.
 
-    If the context is empty:
-    - First, check the chat history (HISTORY below). If you find any previous conversation or information in the chat history that is relevant to the user's current question, use it to answer appropriately.
-    - If nothing relevant is found in the chat history:
-        - If the user's query is about a course (e.g., asking for course details, information, or recommendations), apologize and state that you couldn't find information on that specific topic.
-        - If the user's query is general chatting (not about a course), respond appropriately as a friendly assistant (e.g., introduce yourself, offer help, or answer the chatty question).
+    - First, use the chat history (HISTORY below) and the context (CONTEXT below) together to formulate the most relevant and helpful answer to the user's question.
+    - If you are unable to formulate an answer using the chat history and context:
+        - Determine if the user's question is course-related (e.g., asking for course details, information, or recommendations). If so, apologize and state that information not available on that specific topic.
+        - If the user's question is general chat (not about a course), respond as a friendly assistant (e.g., introduce yourself, offer help, or answer the chatty question appropriately).
 
     HISTORY:
     {chat_history}
@@ -173,36 +177,45 @@ query_rewriter_runnable = RunnableSequence(history_aware_prompt,gemini_router_ll
 def get_course_detail(search_filter):
     print(f"➡️ Router Decision: METADATA filtering. Filter: {search_filter}")
 
-    # Remove 'user_intent' from filter
+    # Remove 'user_intent' and 'descriptive_query' from filter
     search_filter.pop('user_intent', None)
-    search_filter.pop('descriptive_query',None)
+    search_filter.pop('descriptive_query', None)
 
     instructors = None
     if "instructors" in search_filter:
         instructors = search_filter['instructors']
         del search_filter['instructors']
 
-    # Defensive: If search_filter is empty or None, use empty dict
-    if not search_filter:
-        filter_arg = {}
-    elif len(search_filter) == 1:
-        filter_arg = search_filter
-    else:
-        # Only use $and if there are at least two filters
-        filter_arg = {"$and": [{k: v} for k, v in search_filter.items()]}
+    # Handle course_code as a list for filtering
+    filter_arg = {}
+    temp_filter = search_filter.copy()
+    if "course_code" in temp_filter:
+        course_codes = temp_filter.pop("course_code")
+        # If course_codes is a list and not empty, use $in operator
+        if isinstance(course_codes, list) and course_codes:
+            filter_arg["course_code"] = {"$in": course_codes}
+        elif isinstance(course_codes, str):
+            filter_arg["course_code"] = course_codes
+    # Add any other filters
+    for k, v in temp_filter.items():
+        filter_arg[k] = v
 
-    if(search_filter):
+    # If there are multiple filters, use $and
+    if len(filter_arg) > 1:
+        filter_arg = {"$and": [{k: v} for k, v in filter_arg.items()]}
+
+    if filter_arg:
         retriever = vector_store.as_retriever(search_kwargs={"filter": filter_arg, "k": 50})
     else:
         retriever = vector_store.as_retriever(search_kwargs={"k": 50})
-        
+
     docs = retriever.get_relevant_documents("")
 
     if instructors:
         retrieved_docs = [doc for doc in docs if "instructors" in doc.metadata and instructor_fuzzy_match(doc.metadata["instructors"], instructors)]
     else:
         retrieved_docs = docs[:10]
-    
+
     return retrieved_docs
 
 def similar_courses(search_filter):
@@ -286,5 +299,3 @@ while(True):
     chat_history.append(AIMessage(answer)) 
     
     print("🎓 Course Buddy AI :\n",answer)
-
-
