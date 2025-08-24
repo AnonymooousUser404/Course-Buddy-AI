@@ -496,7 +496,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM509": {
@@ -513,7 +513,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM602": {
@@ -649,7 +649,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM616": {
@@ -666,7 +666,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM617": {
@@ -683,7 +683,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM618": {
@@ -700,7 +700,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM619": {
@@ -717,7 +717,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM621": {
@@ -734,7 +734,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CM801": {
@@ -946,7 +946,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS152": {
@@ -1090,7 +1090,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS218": {
@@ -1128,10 +1128,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "Fri: 09:30:00-10:55:00 ||| Wed: 09:30:00-10:55:00",
         "grades": ""
     },
     "CS224": {
@@ -1228,9 +1225,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "L",
-        "class_time": {
-            "Tue": "14:00:00-16:55:00"
-        },
+        "class_time": "Tue: 14:00:00-16:55:00",
         "grades": ""
     },
     "CS232": {
@@ -1264,7 +1259,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS240": {
@@ -1281,7 +1276,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS251": {
@@ -1603,11 +1598,7 @@
         "venue": "LH 301",
         "duration": "FullSemester",
         "slot": "2",
-        "class_time": {
-            "Mon": "09:30:00-10:25:00",
-            "Thu": "11:35:00-12:30:00",
-            "Tue": "10:35:00-11:30:00"
-        },
+        "class_time": "Mon: 09:30:00-10:25:00 ||| Thu: 11:35:00-12:30:00 ||| Tue: 10:35:00-11:30:00",
         "grades": ""
     },
     "CS341": {
@@ -1700,7 +1691,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS351": {
@@ -1738,9 +1729,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "L",
-        "class_time": {
-            "Mon": "14:00:00-16:55:00"
-        },
+        "class_time": "Mon: 14:00:00-16:55:00",
         "grades": ""
     },
     "CS377": {
@@ -1855,10 +1844,7 @@
         "venue": "LA 002",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "Fri: 09:30:00-10:55:00 ||| Wed: 09:30:00-10:55:00",
         "grades": ""
     },
     "CS406": {
@@ -1913,10 +1899,7 @@
         "venue": "CC 101",
         "duration": "FullSemester",
         "slot": "5",
-        "class_time": {
-            "Fri": "09:30:00-10:55:00",
-            "Wed": "09:30:00-10:55:00"
-        },
+        "class_time": "Fri: 09:30:00-10:55:00 ||| Wed: 09:30:00-10:55:00",
         "grades": ""
     },
     "CS416": {
@@ -2225,11 +2208,7 @@
         "venue": "",
         "duration": "FullSemester",
         "slot": "3",
-        "class_time": {
-            "Mon": "10:35:00-11:30:00",
-            "Thu": "08:30:00-09:25:00",
-            "Tue": "11:35:00-12:30:00"
-        },
+        "class_time": "Mon: 10:35:00-11:30:00 ||| Thu: 08:30:00-09:25:00 ||| Tue: 11:35:00-12:30:00",
         "grades": ""
     },
     "AE684": {
@@ -2246,7 +2225,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "AE685": {
@@ -2263,7 +2242,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "AE686": {
@@ -2280,7 +2259,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "AE688": {
@@ -2297,7 +2276,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "AE690": {
@@ -2391,7 +2370,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS6004": {
@@ -2408,7 +2387,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS6007": {
@@ -2429,10 +2408,7 @@
         "venue": "LA 001",
         "duration": "FullSemester",
         "slot": "10",
-        "class_time": {
-            "Fri": "14:00:00-15:25:00",
-            "Tue": "14:00:00-15:25:00"
-        },
+        "class_time": "Fri: 14:00:00-15:25:00 ||| Tue: 14:00:00-15:25:00",
         "grades": ""
     },
     "CS6008": {
@@ -2453,10 +2429,7 @@
         "venue": "CDP Lab",
         "duration": "FullSemester",
         "slot": "14",
-        "class_time": {
-            "Fri": "17:30:00-18:55:00",
-            "Tue": "17:30:00-18:55:00"
-        },
+        "class_time": "Fri: 17:30:00-18:55:00 ||| Tue: 17:30:00-18:55:00",
         "grades": ""
     },
     "CS601": {
@@ -2604,7 +2577,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS6103": {
@@ -2621,7 +2594,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS6104": {
@@ -2638,7 +2611,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS6106": {
@@ -2655,7 +2628,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS613": {
@@ -3888,7 +3861,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS756": {
@@ -4575,7 +4548,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS784": {
@@ -4592,7 +4565,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS785": {
@@ -4609,7 +4582,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS786": {
@@ -4626,7 +4599,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS787": {
@@ -4643,7 +4616,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS788": {
@@ -4660,7 +4633,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS789": {
@@ -4677,7 +4650,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS790": {
@@ -4698,10 +4671,7 @@
         "venue": "CC 105",
         "duration": "FullSemester",
         "slot": "13",
-        "class_time": {
-            "Mon": "19:00:00-20:25:00",
-            "Thu": "19:00:00-20:25:00"
-        },
+        "class_time": "Mon: 19:00:00-20:25:00 ||| Thu: 19:00:00-20:25:00",
         "grades": ""
     },
     "CS791": {
@@ -4722,10 +4692,7 @@
         "venue": "LH 302",
         "duration": "FullSemester",
         "slot": "12",
-        "class_time": {
-            "Mon": "17:30:00-18:55:00",
-            "Thu": "17:30:00-18:55:00"
-        },
+        "class_time": "Mon: 17:30:00-18:55:00 ||| Thu: 17:30:00-18:55:00",
         "grades": ""
     },
     "CS792": {
@@ -4797,7 +4764,7 @@
         "venue": "",
         "duration": "",
         "slot": "",
-        "class_time": {},
+        "class_time": "",
         "grades": ""
     },
     "CS899": {
